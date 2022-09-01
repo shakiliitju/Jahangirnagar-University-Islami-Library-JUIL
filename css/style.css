@@ -163,11 +163,6 @@ section {
 
 
 
-/* .header .header-2 .navbar .logo img {
-    width: 100px;
-    height: 20px;
-    align-items: left;
-} */
 .header .header-2 .navbar a {
     color: #fff;
     display: inline-block;
@@ -209,7 +204,7 @@ section {
 .bottom-navbar a:hover {
     background: var(--dark-color);
 }
-
+/* 
 .login-form-container {
     display: flex;
     align-items: center;
@@ -221,7 +216,7 @@ section {
     z-index: 10000;
     height: 100%;
     width: 100%;
-}
+} */
 /* 
 .login-form-container.active {
     right: 0;
@@ -494,6 +489,34 @@ section {
     color: var(--green);
 }
 
+
+.answer .heading {
+    width: 100%;
+    height: 20rem;
+    padding: 6rem;
+    font-size: 3rem;
+    color: black;
+    background-color:darkslateblue;
+ }
+
+ .answer .question h3 {
+    font-size: 2rem;
+    margin-top: 5rem;
+    /* padding-left: 20rem; */
+    text-align: center;
+    margin-bottom: 5rem;
+    color: var(--black);
+ }
+ 
+ .answer .question p {
+    margin-top: 2rem;
+    padding-left: 20rem;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: var(--black);
+ }
+
+
 .registration .heading {
     width: 100%;
     height: 20rem;
@@ -567,8 +590,8 @@ section {
     width: 100%;
     border: var(--border);
     background-color: var(--white);
-    padding: 1rem 1rem;
-    font-size: 1.8rem;
+    padding: 0.7rem 1rem;
+    font-size: 1.5rem;
     color: var(--black);
     border-radius: .5rem;
  }
