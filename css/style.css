@@ -441,14 +441,16 @@ section {
  .registration .condition h3 {
     font-size: 2rem;
     margin-top: 5rem;
-    padding-left: 20rem;
+    padding-left: 7rem;
+    padding-right: 7rem;
     margin-bottom: 1rem;
     color: var(--black);
  }
  
  .registration .condition p {
     margin-top: 2rem;
-    padding-left: 20rem;
+    padding-left: 7rem;
+    padding-right: 7rem;
     font-size: 1.5rem;
     margin-bottom: 1rem;
     color: var(--black);
@@ -456,7 +458,8 @@ section {
 
  .registration .form p {
     margin-top: 5rem;
-    padding-left: 10rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
     font-size: 1.5rem;
     margin-bottom: 1rem;
     color: var(--black);
@@ -622,8 +625,8 @@ section {
 
 .footer .credit {
     border-top: var(--border);
-    padding-top: 3rem;
-    padding-bottom: 3rem;
+    padding-top: 5rem;
+    padding-bottom: 10rem;
     font-size: 2rem;
     color: #fff;
     background-color: darkslateblue;
