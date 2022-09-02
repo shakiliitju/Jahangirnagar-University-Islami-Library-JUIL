@@ -414,19 +414,28 @@ section {
  .answer .question h3 {
     font-size: 2rem;
     margin-top: 5rem;
-    /* padding-left: 20rem; */
-    text-align: center;
-    margin-bottom: 5rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    /* text-align: center; */
+    margin-bottom: 1rem;
     color: var(--black);
  }
  
  .answer .question p {
     margin-top: 2rem;
-    padding-left: 20rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
     font-size: 1.5rem;
-    margin-bottom: 1rem;
+    margin-bottom: 3rem;
     color: var(--black);
  }
+
+ .answer .question .view {
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 3rem;
+ }
+
 
 
 .registration .heading {
@@ -626,7 +635,7 @@ section {
 .footer .credit {
     border-top: var(--border);
     padding-top: 5rem;
-    padding-bottom: 10rem;
+    padding-bottom: 5rem;
     font-size: 2rem;
     color: #fff;
     background-color: darkslateblue;
