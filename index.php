@@ -15,6 +15,16 @@
     <!-- custom css file link  -->
     <link rel="stylesheet" href="css/style.css">
 
+    <meta name="keywords" content="জাবিইপা"/>
+    <meta name="description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার"/>
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="হোম  -  জাবিইপা">
+    <meta name="twitter:description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার">
+    <meta property="og:title" content="হোম  -  জাবিইপা"/>
+    <meta property="og:site_name" content="জাবিইপা" />
+    <meta property="og:description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার"/>
+    <meta property="og:url" content="https://www.juislamiclibrary.com/"/>
+    <meta property="og:image" content=""/>
 </head>
 
 <body>
@@ -85,6 +95,9 @@
                 <h3> ﴾اِقۡرَاۡ بِاسۡمِ رَبِّکَ الَّذِیۡ خَلَقَ ۚ﴿۱ </h3>
                 <h2>পাঠ করুন আপনার পালনকর্তার নামে যিনি সৃষ্টি করেছেন।</h2>
                 <h1>আল কোরআন [৯৬ঃ০১]</h1>
+                <div class="view">
+                    <a href="https://docs.google.com/document/d/1JGb3cvWrUHpUeILhK5oZRa8dACTws9k1FBXynJnomMU/edit?usp=drivesdk&fbclid=IwAR0GuiVil6aNKayOWfdKzcBz0Cx-TeGACq2ItquBuzuWHknEy9Im6WVCzdI" target="_blank"><button type="button" class="btn">View All Books</button></a>
+                </div>
             </div>
 
             <div class="swiper books-slider">
