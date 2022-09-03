@@ -92,7 +92,7 @@
             <p>উপরিউক্ত শর্তসমূহে রাজি থাকলে নিচের ফরমটি ডাউনলোড করে, প্রিন্ট করে, পূরণ করে আমাদের কাছে জমা দেওয়ার
                 অনুরোধ জানাচ্ছি।</p>
             <div class="download">
-                <a href="/image/"> <input type="submit" value="Download Form" name="send" class="btn"></a>
+                <a href="Registration-Form.pdf" target="_blank"> <button type="button" class="btn">Download Form</button></a>
             </div>
         </div>
     </div>

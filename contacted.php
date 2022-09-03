@@ -105,8 +105,8 @@ if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) &&
         </div>
     </div>
 
-    <div style="margin-left: 5rem; margin-top: 5%; color:#27ae60">
-        <h2>বার্তা পাঠানোর জন্য ধন্যবাদ। আমরা শীঘ্রই আপনার সাথে যোগাযোগ করবো ইন শা আল্লাহ।</h2>
+    <div style="margin-left: 4rem; margin-top: 5%; margin-right: 4rem; text-align: center; color:#27ae60">
+        <h2>জাযাকাল্লাহ খাইরান। আলহামদুলিল্লাহ আমরা আপনার বার্তা পেয়েছি। বার্তা পাঠানোর জন্য আপনাকে ধন্যবাদ। আমরা শীঘ্রই আপনার সাথে যোগাযোগ করবো ইন শা আল্লাহ।</h2>
     </div>
 
     <section class="contact">
