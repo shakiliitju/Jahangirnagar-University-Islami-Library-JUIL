@@ -1,3 +1,26 @@
+<?php
+session_start();
+include "db_conn.php";
+
+if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) && isset($_POST['message'])) {
+
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $phone = $_POST['phone'];
+    $message = $_POST['message'];
+
+    $sql = "insert into message(name,email,phone,message) values('$name','$email','$phone','$message')";
+    if (mysqli_query($conn, $sql)) {
+        // echo 'Registration successfully...';
+    } else {
+        echo 'Error';
+    }
+}
+
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,7 +29,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>যোগাযোগ - জাবিইপা</title>
-    <link rel="shortcut icon" href="image/juil-logo.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/image/juil-logo.ico" type="image/x-icon">
 
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
     <!-- font awesome cdn link  -->
@@ -46,14 +69,14 @@
         <div class="header-2">
 
             <nav class="navbar">
-                <a href="/index.html">হোম</a>
-                <a href="/index.html#featured">বইসমূহ</a>
-                <a href="/index.html#arrivals">নতুন বই</a>
+                <a href="index.php">হোম</a>
+                <a href="index.php#featured">বইসমূহ</a>
+                <a href="index.php#arrivals">নতুন বই</a>
                 <!-- <a href="#reviews">রিভিউ</a> -->
-                <a href="/answer.html">প্রশ্ন ও উত্তর</a>
-                <a href="/registration.html">নিবন্ধন</a>
-                <a href="/contact.html">যোগাযোগ</a>
-                <a href="#login">লগইন</a>
+                <a href="answer.php">প্রশ্ন ও উত্তর</a>
+                <a href="registration.php">নিবন্ধন</a>
+                <a href="contact.php">যোগাযোগ</a>
+                <a href="login.php">লগইন</a>
             </nav>
         </div>
 
@@ -64,14 +87,14 @@
     <!-- bottom navbar  -->
 
     <nav class="bottom-navbar">
-        <a href="/index.html#home" class="fas fa-home"></a>
-        <!-- <a href="/index.html#featured" class="fas fa-list"></a> -->
-        <!-- <a href="/index.html#arrivals" class="fas fa-tags"></a> -->
+        <a href="index.php#home" class="fas fa-home"></a>
+        <!-- <a href="index.php#featured" class="fas fa-list"></a> -->
+        <!-- <a href="index.php#arrivals" class="fas fa-tags"></a> -->
         <!-- <a href="#reviews" class="fas fa-comments"></a> -->
-        <a href="/answer.html" class="fa-sharp fa-solid fa-question"></a>
-        <a href="/contact.html" class="fas fa-envelope"></a>
-        <a href="/registration.html" class="fa-solid fa-user-plus"></a>
-        <a href="#login" class="fas fa-user"></a>
+        <a href="answer.php" class="fa-sharp fa-solid fa-question"></a>
+        <a href="contact.php" class="fas fa-envelope"></a>
+        <a href="registration.php" class="fa-solid fa-user-plus"></a>
+        <a href="login.php" class="fas fa-user"></a>
     </nav>
 
 
@@ -82,16 +105,18 @@
         </div>
     </div>
 
+    <div style="margin-left: 5rem; margin-top: 5%; color:#27ae60">
+        <h2>বার্তা পাঠানোর জন্য ধন্যবাদ। আমরা শীঘ্রই আপনার সাথে যোগাযোগ করবো ইন শা আল্লাহ।</h2>
+    </div>
+
     <section class="contact">
 
         <form action="" method="post">
-            <h3 class="cnt">আপনার যে কোন জিজ্ঞাসা নিম্নোক্ত ফর্মে পূরণ করে আমাদের কাছে পাঠিয়ে দিন। আমরা শীঘ্রই আপনার
-                সাথে যোগাযোগ করবো ইন শা আল্লাহ। </h3>
+            <h3 class="cnt">আপনার যে কোন জিজ্ঞাসা নিম্নোক্ত ফর্মে পূরণ করে আমাদের কাছে পাঠিয়ে দিন।</h3>
             <input type="text" name="name" required placeholder="Your Name" class="box">
             <input type="email" name="email" required placeholder="Your Email" class="box">
             <input type="number" name="number" required placeholder="Phone Number" class="box">
-            <textarea name="message" class="box" placeholder="Write your message...." id="" cols="30"
-                rows="10"></textarea>
+            <textarea name="message" class="box" placeholder="Write your message...." id="" cols="30" rows="10"></textarea>
             <input type="submit" value="send message" name="send" class="btn">
         </form>
 
@@ -106,9 +131,9 @@
 
             <div class="box">
                 <h3>quick links</h3>
-                <a href="/index.html#home"> <i class="fas fa-arrow-right"></i> <b> হোম </b></a>
-                <a href="/index.html#featured"> <i class="fas fa-arrow-right"></i> <b> বইসমূহ </b></a>
-                <a href="/index.html#arrivals"> <i class="fas fa-arrow-right"></i> <b> নতুন বই </b></a>
+                <a href="index.php#home"> <i class="fas fa-arrow-right"></i> <b> হোম </b></a>
+                <a href="index.php#featured"> <i class="fas fa-arrow-right"></i> <b> বইসমূহ </b></a>
+                <a href="index.php#arrivals"> <i class="fas fa-arrow-right"></i> <b> নতুন বই </b></a>
             </div>
 
             <div class="box">
@@ -139,8 +164,7 @@
             <a href="#" class="fab fa-instagram"></a>
         </div>
         <div class="credit">
-            ©২০২২ জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার (জাবিইপা) - সর্ব স্বত্ব সংরক্ষিত। কারিগরি সহায়তায় <a
-                href="https://sites.google.com/view/shakiliitju/home"><span>মোঃ শাকিল হোসেন</a></span>
+            ©২০২২ জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার (জাবিইপা) - সর্ব স্বত্ব সংরক্ষিত। কারিগরি সহায়তায় <a href="https://sites.google.com/view/shakiliitju/home"><span>মোঃ শাকিল হোসেন</a></span>
         </div>
 
     </div>
