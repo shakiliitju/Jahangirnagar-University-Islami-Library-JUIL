@@ -15,6 +15,16 @@
     <!-- custom css file link  -->
     <link rel="stylesheet" href="css/style.css">
 
+    <meta name="keywords" content="জাবিইপা"/>
+    <meta name="description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার"/>
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="হোম  -  জাবিইপা">
+    <meta name="twitter:description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার">
+    <meta property="og:title" content="হোম  -  জাবিইপা"/>
+    <meta property="og:site_name" content="জাবিইপা" />
+    <meta property="og:description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার"/>
+    <meta property="og:url" content="https://www.juislamiclibrary.com/"/>
+    <meta property="og:image" content=""/>
 </head>
 
 <body>
