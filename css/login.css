@@ -12,6 +12,38 @@ body {
 	box-sizing: border-box;
 }
 
+
+.header .header-2 {
+    background: var(--green);
+}
+
+.header .header-2 .navbar {
+    text-align: center;
+}
+
+
+
+.header .header-2 .navbar a {
+    color: #fff;
+    display: inline-block;
+    padding: 3rem;
+    font-size: 1.5rem;
+}
+
+
+.header .header-2 .navbar a:hover {
+    background: var(--dark-color);
+}
+
+.header .header-2.active {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+
+}
+
 form {
 	width: 500px;
 	border: 2px solid #ccc;

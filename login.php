@@ -5,7 +5,7 @@
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>যোগাযোগ - জাবিইপা</title>
+	<title>Admin Login - জাবিইপা</title>
 	<link rel="shortcut icon" href="image/juil-logo.ico" type="image/x-icon">
 
 	<link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -17,20 +17,29 @@
 
 <body>
 
+	<!-- header section starts  -->
 
-		<form action="login-check.php" method="post">
-			<h2>ADMIN LOGIN</h2>
-			<?php if (isset($_GET['error'])) { ?>
-				<p class="error"><?php echo $_GET['error']; ?></p>
-			<?php } ?>
-			<label>Username</label>
-			<input type="text" name="uname" placeholder="Username" required><br>
-	
-			<label>Password</label>
-			<input type="password" name="password" placeholder="Password" required><br>
-	
-			<button type="submit">Login</button>
-		</form>
+	<header class="header">
+		<div class="header-2">
+			<nav class="navbar">
+				<a href="index.php">Home</a>
+			</nav>
+		</div>
+	</header>
+
+	<form action="login-check.php" method="post">
+		<h2>ADMIN LOGIN</h2>
+		<?php if (isset($_GET['error'])) { ?>
+			<p class="error"><?php echo $_GET['error']; ?></p>
+		<?php } ?>
+		<label>Username</label>
+		<input type="text" name="uname" placeholder="Username" required><br>
+
+		<label>Password</label>
+		<input type="password" name="password" placeholder="Password" required><br>
+
+		<button type="submit">Login</button>
+	</form>
 
 
 </body>
