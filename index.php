@@ -838,7 +838,7 @@
             <div class="box">
                 <h3>contact info</h3>
                 <a href="#"> <i class="fas fa-phone"></i> <b> +8801518-306074</b></a>
-                <a href="#"> <i class="fa-solid fa-location-dot"></i> <b> রুম নম্বর ১২৪,
+                <a href="https://goo.gl/maps/Gaa2BGgTNqAeQKye7" target="_blank"> <i class="fa-solid fa-location-dot"></i> <b> রুম নম্বর ১২৪,
                         <br> আ ফ ম কামালউদ্দীন হল,<br> জাহাঙ্গীরনগর বিশ্ববিদ্যালয়
                     </b></a>
                 <!-- <a href="#"> <i class="fas fa-envelope"></i> <b>  </b></a> -->
