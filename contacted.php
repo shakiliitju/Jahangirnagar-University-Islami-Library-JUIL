@@ -163,7 +163,7 @@ if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) &&
                 <a href="https://goo.gl/maps/Gaa2BGgTNqAeQKye7" target="_blank"> <i class="fa-solid fa-location-dot"></i> <b> রুম নম্বর ১২৪,
                         <br> আ ফ ম কামালউদ্দীন হল,<br> জাহাঙ্গীরনগর বিশ্ববিদ্যালয়
                     </b></a>
-
+                    <a href="mailto: juislamiclibrary@gmail.com"> <i class="fas fa-envelope"></i><b>juislamiclibrary@gmail.com</b></a>
             </div>
 
         </div>
