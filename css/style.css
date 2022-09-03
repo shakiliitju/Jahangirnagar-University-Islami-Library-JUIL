@@ -574,40 +574,6 @@ section {
   
 
 
-/* 
-
- .login form {
-     margin: 0 auto;
-     background-color: var(--light-bg);
-     border-radius: .5rem;
-     border: var(--border);
-     padding: 2rem;
-     max-width: 50rem;
-     text-align: center;
-  }
-  
-  
-  .login form h2 {
-     font-size: 1.3rem;
-     margin-bottom: 1rem;
-     color: var(--black);
-  }
-  
-  .login form .box {
-     margin: 1rem 0;
-     width: 100%;
-     border: var(--border);
-     background-color: var(--white);
-     padding: 0.7rem 1rem;
-     font-size: 1.5rem;
-     color: var(--black);
-     border-radius: .5rem;
-  } */
-
-
-
-
-
 .footer .box-container {
     padding-top: 3rem;
     padding-left: 5rem;

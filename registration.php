@@ -15,16 +15,16 @@
     <!-- custom css file link  -->
     <link rel="stylesheet" href="css/style.css">
 
-    <meta name="keywords" content="জাবিইপা"/>
-    <meta name="description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার"/>
+    <meta name="keywords" content="জাবিইপা" />
+    <meta name="description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার" />
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="হোম  -  জাবিইপা">
     <meta name="twitter:description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার">
-    <meta property="og:title" content="হোম  -  জাবিইপা"/>
+    <meta property="og:title" content="হোম  -  জাবিইপা" />
     <meta property="og:site_name" content="জাবিইপা" />
-    <meta property="og:description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার"/>
-    <meta property="og:url" content="https://www.juislamiclibrary.com/"/>
-    <meta property="og:image" content=""/>
+    <meta property="og:description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার" />
+    <meta property="og:url" content="https://www.juislamiclibrary.com/" />
+    <meta property="og:image" content="" />
 </head>
 
 <body>
@@ -138,8 +138,7 @@
                 <a href="https://goo.gl/maps/Gaa2BGgTNqAeQKye7" target="_blank"> <i class="fa-solid fa-location-dot"></i> <b> রুম নম্বর ১২৪,
                         <br> আ ফ ম কামালউদ্দীন হল,<br> জাহাঙ্গীরনগর বিশ্ববিদ্যালয়
                     </b></a>
-                <!-- <a href="#"> <i class="fas fa-envelope"></i> <b>  </b></a> -->
-
+                <a href="mailto: juislamiclibrary@gmail.com"> <i class="fas fa-envelope"></i><b>juislamiclibrary@gmail.com</b></a>
             </div>
 
         </div>
