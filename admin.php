@@ -71,8 +71,7 @@
         td {
             border: 2px solid black;
             border-collapse: collapse;
-            font-weight: bold;
-            padding: 5px 0px 5px 10px;
+            padding: 5px 10px 5px 10px;
         }
 
         .row h2 {
