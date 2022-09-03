@@ -46,14 +46,14 @@
         <div class="header-2">
 
             <nav class="navbar">
-                <a href="/index.html">হোম</a>
-                <a href="/index.html#featured">বইসমূহ</a>
-                <a href="/index.html#arrivals">নতুন বই</a>
+                <a href="index.php">হোম</a>
+                <a href="index.php#featured">বইসমূহ</a>
+                <a href="index.php#arrivals">নতুন বই</a>
                 <!-- <a href="#reviews">রিভিউ</a> -->
-                <a href="/answer.html">প্রশ্ন ও উত্তর</a>
-                <a href="/registration.html">নিবন্ধন</a>
-                <a href="/contact.html">যোগাযোগ</a>
-                <a href="#login">লগইন</a>
+                <a href="answer.php">প্রশ্ন ও উত্তর</a>
+                <a href="registration.php">নিবন্ধন</a>
+                <a href="contact.php">যোগাযোগ</a>
+                <a href="login.php">লগইন</a>
             </nav>
         </div>
 
@@ -64,14 +64,14 @@
     <!-- bottom navbar  -->
 
     <nav class="bottom-navbar">
-        <a href="/index.html#home" class="fas fa-home"></a>
-        <!-- <a href="/index.html#featured" class="fas fa-list"></a> -->
-        <!-- <a href="/index.html#arrivals" class="fas fa-tags"></a> -->
-        <a href="/answer.html" class="fa-sharp fa-solid fa-question"></a>
+        <a href="index.php#home" class="fas fa-home"></a>
+        <!-- <a href="index.html#featured" class="fas fa-list"></a> -->
+        <!-- <a href="index.html#arrivals" class="fas fa-tags"></a> -->
+        <a href="answer.php" class="fa-sharp fa-solid fa-question"></a>
         <!-- <a href="#reviews" class="fas fa-comments"></a> -->
-        <a href="/contact.html" class="fas fa-envelope"></a>
-        <a href="/registration.html" class="fa-solid fa-user-plus"></a>
-        <a href="#login" class="fas fa-user"></a>
+        <a href="contact.php" class="fas fa-envelope"></a>
+        <a href="registration.php" class="fa-solid fa-user-plus"></a>
+        <a href="login.php" class="fas fa-user"></a>
     </nav>
 
 
@@ -115,9 +115,9 @@
 
             <div class="box">
                 <h3>quick links</h3>
-                <a href="/index.html#home"> <i class="fas fa-arrow-right"></i> <b> হোম </b></a>
-                <a href="/index.html#featured"> <i class="fas fa-arrow-right"></i> <b> বইসমূহ </b></a>
-                <a href="/index.html#arrivals"> <i class="fas fa-arrow-right"></i> <b> নতুন বই </b></a>
+                <a href="index.php#home"> <i class="fas fa-arrow-right"></i> <b> হোম </b></a>
+                <a href="index.php#arrivals"> <i class="fas fa-arrow-right"></i> <b> নতুন বই </b></a>
+                <a href="index.php#featured"> <i class="fas fa-arrow-right"></i> <b> বইসমূহ </b></a>
             </div>
 
             <div class="box">
