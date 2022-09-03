@@ -44,7 +44,7 @@ if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) &&
     <meta name="twitter:title" content="হোম  -  জাবিইপা">
     <meta name="twitter:description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার">
     <meta property="og:title" content="হোম  -  জাবিইপা"/>
-    <meta property="og:site_name" content="জাবিইপা" />
+    <meta property="og:site_name" content="জাবিইপা"/>
     <meta property="og:description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার"/>
     <meta property="og:url" content="https://www.juislamiclibrary.com/"/>
     <meta property="og:image" content=""/>
@@ -69,8 +69,8 @@ if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) &&
 
             <div class="icons">
                 <div id="search-btn" class="fas fa-search"></div>
-                <a href="https://www.facebook.com/JUIL2022/"><i class="fab fa-facebook"></i></a>
-                <a href="https://www.facebook.com/groups/395317002159903/"><i class="fab fa-facebook"></i></a>
+                <a href="https://www.facebook.com/JUIL2022/" target="_blank"><i class="fab fa-facebook"></i></a>
+                <a href="https://www.facebook.com/groups/395317002159903/" target="_blank"><i class="fab fa-facebook"></i></a>
             </div>
         </div>
 
