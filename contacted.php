@@ -38,6 +38,16 @@ if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) &&
     <!-- custom css file link  -->
     <link rel="stylesheet" href="css/style.css">
 
+    <meta name="keywords" content="জাবিইপা"/>
+    <meta name="description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার"/>
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="হোম  -  জাবিইপা">
+    <meta name="twitter:description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার">
+    <meta property="og:title" content="হোম  -  জাবিইপা"/>
+    <meta property="og:site_name" content="জাবিইপা" />
+    <meta property="og:description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার"/>
+    <meta property="og:url" content="https://www.juislamiclibrary.com/"/>
+    <meta property="og:image" content=""/>
 </head>
 
 <body>
@@ -164,7 +174,7 @@ if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) &&
             <a href="#" class="fab fa-instagram"></a>
         </div>
         <div class="credit">
-            ©২০২২ জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার (জাবিইপা) - সর্ব স্বত্ব সংরক্ষিত। কারিগরি সহায়তায় <a href="https://sites.google.com/view/shakiliitju/home"><span>মোঃ শাকিল হোসেন</a></span>
+            ©২০২২ জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার (জাবিইপা) - সর্ব স্বত্ব সংরক্ষিত। কারিগরি সহায়তায় <a href="https://sites.google.com/view/shakiliitju/home" target="_blank"><span>মোঃ শাকিল হোসেন</a></span>
         </div>
 
     </div>
