@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>নিবন্ধন - জাবিইপা</title>
+    <title>যোগাযোগ - জাবিইপা</title>
     <link rel="shortcut icon" href="image/juil-logo.ico" type="image/x-icon">
 
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -46,14 +46,14 @@
         <div class="header-2">
 
             <nav class="navbar">
-                <a href="/index.html">হোম</a>
-                <a href="/index.html#featured">বইসমূহ</a>
-                <a href="/index.html#arrivals">নতুন বই</a>
+                <a href="index.php">হোম</a>
+                <a href="index.php#featured">বইসমূহ</a>
+                <a href="index.php#arrivals">নতুন বই</a>
                 <!-- <a href="#reviews">রিভিউ</a> -->
-                <a href="/answer.html">প্রশ্ন ও উত্তর</a>
-                <a href="/registration.html">নিবন্ধন</a>
-                <a href="/contact.html">যোগাযোগ</a>
-                <a href="#login">লগইন</a>
+                <a href="answer.php">প্রশ্ন ও উত্তর</a>
+                <a href="registration.php">নিবন্ধন</a>
+                <a href="contact.php">যোগাযোগ</a>
+                <a href="login.php">লগইন</a>
             </nav>
         </div>
 
@@ -64,38 +64,37 @@
     <!-- bottom navbar  -->
 
     <nav class="bottom-navbar">
-        <a href="/index.html#home" class="fas fa-home"></a>
-        <!-- <a href="/index.html#featured" class="fas fa-list"></a> -->
-        <!-- <a href="/index.html#arrivals" class="fas fa-tags"></a> -->
-        <a href="/answer.html" class="fa-sharp fa-solid fa-question"></a>
+        <a href="index.php#home" class="fas fa-home"></a>
+        <!-- <a href="index.html#featured" class="fas fa-list"></a> -->
+        <!-- <a href="index.html#arrivals" class="fas fa-tags"></a> -->
         <!-- <a href="#reviews" class="fas fa-comments"></a> -->
-        <a href="/contact.html" class="fas fa-envelope"></a>
-        <a href="/registration.html" class="fa-solid fa-user-plus"></a>
-        <a href="#login" class="fas fa-user"></a>
+        <a href="answer.php" class="fa-sharp fa-solid fa-question"></a>
+        <a href="contact.php" class="fas fa-envelope"></a>
+        <a href="registration.php" class="fa-solid fa-user-plus"></a>
+        <a href="login.php" class="fas fa-user"></a>
     </nav>
 
 
-    <div class="registration">
+
+    <div class="contact">
         <div class="heading">
-            <h3>নতুন সদস্য নিবন্ধন</h3>
-        </div>
-        <div class="condition">
-            <h3>সদস্য হওয়ার নিয়মাবলীঃ</h3>
-            <p>১. পাঠাগার থেকে নির্ধারিত ফরম সংগ্রহ করে, যথাযথ পূরণ করে জমা দিতে হবে।</p>
-            <p>২. সদস্য ফি বাবদ কোনো টাকা প্রদান করতে হবে না। তবে যেকোনো পরিমাণ টাকা অথবা প্রয়োজনীয় বই দিলে তা সাদরে
-                গ্রহণ করা হবে।</p>
-            <p>৩. পাঠাগারের সাধারণ কার্য সভায় অবশ্যই উপস্থিত থাকতে হবে (বোনদের জন্য প্রযোজ্য নয়)।</p>
-            <p>৪. পাঠাগারের বিভিন্ন কার্যক্রমে স্বতঃস্ফূর্তভাবে অংশগ্রহণ করতে হবে। </p>
-            <p>৫. পাঠাগারের নিয়ম বহির্ভূত কোনো কার্যক্রমে জড়িত হলে তার সদস্য পদ বাতিল করা হবে।</p>
-        </div>
-        <div class="form">
-            <p>উপরিউক্ত শর্তসমূহে রাজি থাকলে নিচের ফরমটি ডাউনলোড করে, প্রিন্ট করে, পূরণ করে আমাদের কাছে জমা দেওয়ার
-                অনুরোধ জানাচ্ছি।</p>
-            <div class="download">
-                <input type="submit" value="Download Form" name="send" class="btn">
-            </div>
+            <h3>যে কোন তথ্য জানতে</h3>
         </div>
     </div>
+
+    <section class="contact">
+
+        <form action="contacted.php" method="post">
+            <h3 class="cnt">আপনার যে কোন জিজ্ঞাসা নিম্নোক্ত ফর্মে পূরণ করে আমাদের কাছে পাঠিয়ে দিন। আমরা শীঘ্রই আপনার
+                সাথে যোগাযোগ করবো ইন শা আল্লাহ। </h3>
+            <input type="text" name="name" required placeholder="Your Name" class="box">
+            <input type="email" name="email" required placeholder="Your Email" class="box">
+            <input type="number" name="phone" required placeholder="Phone Number" class="box">
+            <textarea name="message" class="box" placeholder="Write your message...." id="" cols="30" rows="10"></textarea>
+            <input type="submit" value="send message" name="send" class="btn">
+        </form>
+
+    </section>
 
 
     <!-- footer section starts  -->
@@ -106,9 +105,9 @@
 
             <div class="box">
                 <h3>quick links</h3>
-                <a href="/index.html#home"> <i class="fas fa-arrow-right"></i> <b> হোম </b></a>
-                <a href="/index.html#featured"> <i class="fas fa-arrow-right"></i> <b> বইসমূহ </b></a>
-                <a href="/index.html#arrivals"> <i class="fas fa-arrow-right"></i> <b> নতুন বই </b></a>
+                <a href="index.php#home"> <i class="fas fa-arrow-right"></i> <b> হোম </b></a>
+                <a href="index.php#featured"> <i class="fas fa-arrow-right"></i> <b> বইসমূহ </b></a>
+                <a href="index.php#arrivals"> <i class="fas fa-arrow-right"></i> <b> নতুন বই </b></a>
             </div>
 
             <div class="box">
@@ -128,7 +127,6 @@
                 <a href="#"> <i class="fa-solid fa-location-dot"></i> <b> রুম নম্বর ১২৪,
                         <br> আ ফ ম কামালউদ্দীন হল,<br> জাহাঙ্গীরনগর বিশ্ববিদ্যালয়
                     </b></a>
-                <!-- <a href="#"> <i class="fas fa-envelope"></i> <b>  </b></a> -->
 
             </div>
 
@@ -146,7 +144,6 @@
 
     </div>
 
-    <!-- footer section end  -->
 
     <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
 

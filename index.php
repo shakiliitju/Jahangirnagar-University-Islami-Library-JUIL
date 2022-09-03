@@ -50,10 +50,10 @@
                 <a href="#featured">বইসমূহ</a>
                 <a href="#arrivals">নতুন বই</a>
                 <!-- <a href="#reviews">রিভিউ</a> -->
-                <a href="/answer.html">প্রশ্ন ও উত্তর</a>
-                <a href="/registration.html">নিবন্ধন</a>
-                <a href="/contact.html">যোগাযোগ</a>
-                <a href="#login">লগইন</a>
+                <a href="answer.php">প্রশ্ন ও উত্তর</a>
+                <a href="registration.php">নিবন্ধন</a>
+                <a href="contact.php">যোগাযোগ</a>
+                <a href="login.php">লগইন</a>
             </nav>
         </div>
 
@@ -68,10 +68,10 @@
         <!-- <a href="#featured" class="fas fa-list"></a> -->
         <!-- <a href="#arrivals" class="fas fa-tags"></a> -->
         <!-- <a href="#reviews" class="fas fa-comments"></a> -->
-        <a href="/answer.html" class="fa-sharp fa-solid fa-question"></a>
-        <a href="/contact.html" class="fas fa-envelope"></a>
-        <a href="/registration.html" class="fa-solid fa-user-plus"></a>
-        <a href="#login" class="fas fa-user"></a>
+        <a href="answer.php" class="fa-sharp fa-solid fa-question"></a>
+        <a href="contact.php" class="fas fa-envelope"></a>
+        <a href="registration.php" class="fa-solid fa-user-plus"></a>
+        <a href="login.php" class="fas fa-user"></a>
     </nav>
 
 
