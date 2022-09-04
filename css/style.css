@@ -464,6 +464,7 @@ section {
     font-size: 1.5rem;
     margin-bottom: 1rem;
     color: var(--black);
+    text-align: center;
  }
 
  .registration .form p {
@@ -473,6 +474,7 @@ section {
     font-size: 1.5rem;
     margin-bottom: 1rem;
     color: var(--black);
+    text-align: center;
  }
 
  .registration .form .download {
