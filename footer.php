@@ -5,8 +5,11 @@
             <div class="box">
                 <h3>quick links</h3>
                 <a href="index.php"> <i class="fas fa-arrow-right"></i> <b> হোম </b></a>
-                <a href="index.php#featured"> <i class="fas fa-arrow-right"></i> <b> বইসমূহ </b></a>
-                <a href="index.php#arrivals"> <i class="fas fa-arrow-right"></i> <b> নতুন বই </b></a>
+                <!-- <a href="index.php#featured"> <i class="fas fa-arrow-right"></i> <b> বইসমূহ </b></a>
+                <a href="index.php#arrivals"> <i class="fas fa-arrow-right"></i> <b> নতুন বই </b></a> -->
+                <a href="answer.php"> <i class="fas fa-arrow-right"></i> <b> প্রশ্ন ও উত্তর </b></a>
+                <a href="registration.php"> <i class="fas fa-arrow-right"></i> <b> নিবন্ধন </b></a>
+                <a href="contact.php"> <i class="fas fa-arrow-right"></i> <b> যোগাযোগ </b></a>
             </div>
 
             <div class="box">
