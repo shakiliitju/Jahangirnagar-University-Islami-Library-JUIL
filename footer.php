@@ -4,9 +4,9 @@
         <div class="box-container">
             <div class="box">
                 <h3>quick links</h3>
-                <a href="#home"> <i class="fas fa-arrow-right"></i> <b> হোম </b></a>
-                <a href="#featured"> <i class="fas fa-arrow-right"></i> <b> বইসমূহ </b></a>
-                <a href="#arrivals"> <i class="fas fa-arrow-right"></i> <b> নতুন বই </b></a>
+                <a href="index.php"> <i class="fas fa-arrow-right"></i> <b> হোম </b></a>
+                <a href="index.php#featured"> <i class="fas fa-arrow-right"></i> <b> বইসমূহ </b></a>
+                <a href="index.php#arrivals"> <i class="fas fa-arrow-right"></i> <b> নতুন বই </b></a>
             </div>
 
             <div class="box">
@@ -23,10 +23,10 @@
             <div class="box">
                 <h3>contact info</h3>
                 <a href="#"> <i class="fas fa-phone"></i> <b> +8801518-306074</b></a>
+                <a href="mailto: juislamiclibrary@gmail.com"> <i class="fas fa-envelope"></i><b>juislamiclibrary@gmail.com</b></a>
                 <a href="https://goo.gl/maps/Gaa2BGgTNqAeQKye7" target="_blank"> <i class="fa-solid fa-location-dot"></i> <b> রুম নম্বর ১২৪,
                         <br> আ ফ ম কামালউদ্দীন হল,<br> জাহাঙ্গীরনগর বিশ্ববিদ্যালয়
                     </b></a>
-                <a href="mailto: juislamiclibrary@gmail.com"> <i class="fas fa-envelope"></i><b>juislamiclibrary@gmail.com</b></a>
             </div>
 
         </div>
