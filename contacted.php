@@ -38,16 +38,16 @@ if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) &&
     <!-- custom css file link  -->
     <link rel="stylesheet" href="css/style.css">
 
-    <meta name="keywords" content="জাবিইপা" />
-    <meta name="description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার" />
+    <meta name="keywords" content="জাবিইপা"/>
+    <meta name="description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার"/>
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="হোম  -  জাবিইপা">
     <meta name="twitter:description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার">
-    <meta property="og:title" content="হোম  -  জাবিইপা" />
-    <meta property="og:site_name" content="জাবিইপা" />
-    <meta property="og:description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার" />
-    <meta property="og:url" content="https://www.juislamiclibrary.com/" />
-    <meta property="og:image" content="" />
+    <meta property="og:title" content="হোম  -  জাবিইপা"/>
+    <meta property="og:site_name" content="জাবিইপা"/>
+    <meta property="og:description" content="জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার"/>
+    <meta property="og:url" content="https://www.juislamiclibrary.com/"/>
+    <meta property="og:image" content=""/>
 </head>
 
 <body>
@@ -73,7 +73,7 @@ if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) &&
     <section class="contact">
 
         <form action="" method="post">
-            <h3 class="cnt">আপনার যে কোন জিজ্ঞাসা নিম্নোক্ত ফর্মে পূরণ করে আমাদের কাছে পাঠিয়ে দিন।</h3>
+            <h3 class="cnt">আপনার যে কোন জিজ্ঞাসা বা পরামর্শ নিম্নোক্ত ফর্মে পূরণ করে আমাদের কাছে পাঠিয়ে দিন।</h3>
             <input type="text" name="name" required placeholder="Your Name" class="box">
             <input type="email" name="email" required placeholder="Your Email" class="box">
             <input type="number" name="number" required placeholder="Phone Number" class="box">

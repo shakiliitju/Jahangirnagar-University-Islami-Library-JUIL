@@ -45,7 +45,7 @@
     <section class="contact">
 
         <form action="contacted.php" method="post">
-            <h3 class="cnt">আপনার যে কোন জিজ্ঞাসা নিম্নোক্ত ফর্মে পূরণ করে আমাদের কাছে পাঠিয়ে দিন। আমরা শীঘ্রই আপনার
+            <h3 class="cnt">আপনার যে কোন জিজ্ঞাসা বা পরামর্শ নিম্নোক্ত ফর্মে পূরণ করে আমাদের কাছে পাঠিয়ে দিন। আমরা শীঘ্রই আপনার
                 সাথে যোগাযোগ করবো ইন শা আল্লাহ। </h3>
             <input type="text" name="name" required placeholder="Your Name" class="box">
             <input type="email" name="email" required placeholder="Your Email" class="box">
