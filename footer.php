@@ -38,7 +38,7 @@
             <a href="#" class="fab fa-instagram"></a>
         </div>
         <div class="credit">
-            ©২০২২ জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার (জাবিইপা) - সর্ব স্বত্ব সংরক্ষিত। কারিগরি সহায়তায় <a href="https://sites.google.com/view/shakiliitju/home" target="_blank"><span>মোঃ শাকিল হোসেন</a></span>
+            ©২০২২ জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার (জাবিইপা) - সর্ব স্বত্ব সংরক্ষিত। কারিগরি সহায়তায় <a href="https://www.facebook.com/shakiliitju/" target="_blank"><span>মোঃ শাকিল হোসেন</a></span>
         </div>
     </div>
 
