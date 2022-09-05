@@ -591,7 +591,8 @@ section {
 }
 
 .footer .box-container .box h2 {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
+    text-align: justify;
     color: black;
     padding: 1rem 0;
 }
