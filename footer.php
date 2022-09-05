@@ -33,7 +33,7 @@
         </div>
 
         <div class="share">
-            <a href="#" class="fab fa-facebook-f"></a>
+            <a href="https://www.facebook.com/JUIL2022/" target="_blank" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
             <a href="#" class="fab fa-instagram"></a>
         </div>
@@ -48,7 +48,7 @@
 
         ! function(e, t, a) {
             function n() {
-                c(".heart{width: 10px;height: 10px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -5px;}.heart:before{left: -5px;}"), o(), r()
+                c(".heart{width: 15px;height: 15px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -7px;}.heart:before{left: -7px;}"), o(), r()
             }
 
             function r() {
