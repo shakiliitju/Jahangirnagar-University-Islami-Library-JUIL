@@ -48,7 +48,7 @@
 
         ! function(e, t, a) {
             function n() {
-                c(".heart{width: 15px;height: 15px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -7px;}.heart:before{left: -7px;}"), o(), r()
+                c(".heart{width: 15px;height: 15px;position: fixed;background: #f00;transform: rotate(45deg);-webkit-transform: rotate(45deg);-moz-transform: rotate(45deg);}.heart:after,.heart:before{content: '';width: inherit;height: inherit;background: inherit;border-radius: 50%;-webkit-border-radius: 50%;-moz-border-radius: 50%;position: fixed;}.heart:after{top: -8px;}.heart:before{left: -8px;}"), o(), r()
             }
 
             function r() {
