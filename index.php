@@ -647,102 +647,61 @@
 
     <!-- reviews section starts  -->
 
-    <!-- <section class="reviews" id="reviews">
+    <section class="reviews" id="reviews">
 
-        <h1 class="heading"> <span>রিভিউ</span> </h1>
+        <h1 class="heading"> <span>আমাদের সম্পর্কে</span> </h1>
 
         <div class="swiper reviews-slider">
 
             <div class="swiper-wrapper">
 
-                <div class="swiper-slide box">
+                <!-- <div class="swiper-slide box">
                     <img src="image/pic-3.png" alt="">
-                    <h3>john deo</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur nihil ipsa placeat. Aperiam
-                        at sint, eos ex similique facere hic.</p>
-                    <div class="stars">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star-half-alt"></i>
-                    </div>
+                    <h3>খালিদ সাইফুল্লাহ</h3>
+                    <h2>পরিচালক</h2>
+                    <p>মাইক্রোবায়োলজি<br>৪৭ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
                 </div>
 
                 <div class="swiper-slide box">
                     <img src="image/pic-3.png" alt="">
-                    <h3>john deo</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur nihil ipsa placeat. Aperiam
-                        at sint, eos ex similique facere hic.</p>
-                    <div class="stars">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star-half-alt"></i>
-                    </div>
+                    <h3>খালিদ সাইফুল্লাহ</h3>
+                    <h2>পরিচালক</h2>
+                    <p>মাইক্রোবায়োলজি<br>৪৭ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
                 </div>
 
                 <div class="swiper-slide box">
                     <img src="image/pic-3.png" alt="">
-                    <h3>john deo</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur nihil ipsa placeat. Aperiam
-                        at sint, eos ex similique facere hic.</p>
-                    <div class="stars">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star-half-alt"></i>
-                    </div>
+                    <h3>খালিদ সাইফুল্লাহ</h3>
+                    <h2>পরিচালক</h2>
+                    <p>মাইক্রোবায়োলজি<br>৪৭ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
                 </div>
-                <div class="swiper-slide box">
+
+               <div class="swiper-slide box">
                     <img src="image/pic-3.png" alt="">
-                    <h3>john deo</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur nihil ipsa placeat. Aperiam
-                        at sint, eos ex similique facere hic.</p>
-                    <div class="stars">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star-half-alt"></i>
-                    </div>
+                    <h3>খালিদ সাইফুল্লাহ</h3>
+                    <h2>পরিচালক</h2>
+                    <p>মাইক্রোবায়োলজি<br>৪৭ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
+                </div> -->
+
+                <div class="swiper-slide box">
+                    <img src="image/Shakiliitju.jpg" alt="">
+                    <h3>মোঃ শাকিল হোসেন</h3>
+                    <h2>ওয়েব ডিজাইনার</h2>
+                    <p>আই আই টি<br>৪৮ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
                 </div>
 
                 <div class="swiper-slide box">
-                    <img src="image/pic-3.png" alt="">
-                    <h3>john deo</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur nihil ipsa placeat. Aperiam
-                        at sint, eos ex similique facere hic.</p>
-                    <div class="stars">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star-half-alt"></i>
-                    </div>
-                </div>
-
-                <div class="swiper-slide box">
-                    <img src="image/pic-3.png" alt="">
-                    <h3>john deo</h3>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur nihil ipsa placeat. Aperiam
-                        at sint, eos ex similique facere hic.</p>
-                    <div class="stars">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star-half-alt"></i>
-                    </div>
+                    <img src="image/saifullah.jpg" alt="">
+                    <h3>খালিদ সাইফুল্লাহ</h3>
+                    <h2>পরিচালক</h2>
+                    <p>মাইক্রোবায়োলজি<br>৪৭ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
                 </div>
 
             </div>
 
         </div>
 
-    </section> -->
+    </section>
 
     <!-- reviews section ends -->
 

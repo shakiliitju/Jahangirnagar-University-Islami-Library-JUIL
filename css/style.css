@@ -361,7 +361,7 @@ section {
     color: var(--green);
 }
 
-/* 
+
 .reviews .reviews-slider .box {
     border: var(--border);
     padding: 2rem;
@@ -374,8 +374,8 @@ section {
 }
 
 .reviews .reviews-slider .box img {
-    height: 12rem;
-    width: 12rem;
+    height: 15rem;
+    width: 15rem;
     border-radius: 50%;
     object-fit: cover;
 }
@@ -400,7 +400,7 @@ section {
 .reviews .reviews-slider .box .stars i {
     font-size: 1.7rem;
     color: var(--green);
-} */
+}
 
 
 .answer .heading {
