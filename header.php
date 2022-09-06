@@ -28,7 +28,7 @@
                 <a href="index.php">হোম</a>
                 <a href="index.php#featured">বইসমূহ</a>
                 <a href="index.php#arrivals">নতুন বই</a>
-                <!-- <a href="index.php#reviews">রিভিউ</a> -->
+                <a href="index.php#reviews">আমাদের সম্পর্কে</a>
                 <a href="answer.php">প্রশ্ন ও উত্তর</a>
                 <a href="registration.php">নিবন্ধন</a>
                 <a href="contact.php">যোগাযোগ</a>

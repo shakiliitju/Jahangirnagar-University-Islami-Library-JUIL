@@ -655,28 +655,28 @@
 
             <div class="swiper-wrapper">
 
-                <!-- <div class="swiper-slide box">
-                    <img src="image/pic-3.png" alt="">
-                    <h3>খালিদ সাইফুল্লাহ</h3>
-                    <h2>পরিচালক</h2>
-                    <p>মাইক্রোবায়োলজি<br>৪৭ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
+                <div class="swiper-slide box">
+                    <img src="image/safayet.jpeg" alt="">
+                    <h3>মো. সাফায়েত মীর</h3>
+                    <h2>দপ্তর সম্পাদক</h2>
+                    <p>গণিত<br>৪৯ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
+                </div>
+                <div class="swiper-slide box">
+                    <img src="image/shawon.jpg" alt="">
+                    <h3>শাহিদুজ্জামান সরকার শাওন</h3>
+                    <h2>অর্থ সম্পাদক</h2>
+                    <p>অর্থনীতি<br>৪৯ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
                 </div>
 
                 <div class="swiper-slide box">
-                    <img src="image/pic-3.png" alt="">
-                    <h3>খালিদ সাইফুল্লাহ</h3>
-                    <h2>পরিচালক</h2>
-                    <p>মাইক্রোবায়োলজি<br>৪৭ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
+                    <img src="image/salehin.jpg" alt="">
+                    <h3>সালেহীন নোমান বিন আউয়াল</h3>
+                    <h2>বিশ্বকবি রবীন্দ্রনাথ ঠাকুর হল প্রতিনিধি</h2>
+                    <p>অর্থনীতি<br>৪৯ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
                 </div>
 
-                <div class="swiper-slide box">
-                    <img src="image/pic-3.png" alt="">
-                    <h3>খালিদ সাইফুল্লাহ</h3>
-                    <h2>পরিচালক</h2>
-                    <p>মাইক্রোবায়োলজি<br>৪৭ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
-                </div>
 
-               <div class="swiper-slide box">
+               <!-- <div class="swiper-slide box">
                     <img src="image/pic-3.png" alt="">
                     <h3>খালিদ সাইফুল্লাহ</h3>
                     <h2>পরিচালক</h2>
@@ -718,17 +718,17 @@
                 </div>
                 <div class="counter-item">
                     <img src="image/sudent.png" alt="Image" class="counter-img" />
-                    <h1 class="counter" data-target="15">0</h1>
+                    <h1 class="counter" data-target="20">0</h1>
                     <h1>ছাত্র সদস্য</h1>
                 </div>
-                <div class="counter-item">
+                <!-- <div class="counter-item">
                     <img src="image/female-student.png" alt="Image" class="counter-img" />
                     <h1 class="counter" data-target="15">0</h1>
                     <h1>ছাত্রী সদস্য</h1>
-                </div>
+                </div> -->
                 <div class="counter-item">
                     <img src="image/member.png" alt="Image" class="counter-img" />
-                    <h1 class="counter" data-target="30">0</h1>
+                    <h1 class="counter" data-target="20">0</h1>
                     <h1>মোট সদস্য</h1>
                 </div>
 
