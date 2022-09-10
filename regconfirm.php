@@ -2,14 +2,20 @@
 session_start();
 include "db_conn.php";
 
-if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) && isset($_POST['message'])) {
+if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) && isset($_POST['department']) && isset($_POST['batch']) && isset($_POST['session']) && isset($_POST['hall']) && isset($_POST['bgroup']) && isset($_POST['gender']) && isset($_POST['address'])) {
 
     $name = $_POST['name'];
     $email = $_POST['email'];
     $phone = $_POST['phone'];
-    $message = $_POST['message'];
-
-    $sql = "insert into message(name,email,phone,message) values('$name','$email','$phone','$message')";
+    $department = $_POST['department'];
+    $batch = $_POST['batch'];
+    $session = $_POST['session'];
+    $hall = $_POST['hall'];
+    $bgroup = $_POST['bgroup'];
+    $gender = $_POST['gender'];
+    $address = $_POST['address'];
+   
+    $sql = "insert into members(name,email,phone,department,batch,session,hall,bgroup,gender,address) values('$name','$email','$phone','$department','$batch','$session','$hall','$bgroup','$gender','$address')";
     if (mysqli_query($conn, $sql)) {
         // echo 'Registration successfully...';
     } else {
@@ -79,14 +85,14 @@ if (isset($_POST['name']) && isset($_POST['email']) && isset($_POST['phone']) &&
 
 
 
-    <div class="contact">
+    <div class="regconfirm">
         <div class="heading">
             <h3>অভিনন্দন</h3>
         </div>
-    </div>
 
-    <div style="margin-left: 4rem; margin-top: 5%; margin-right: 4rem; text-align: center; color:#27ae60">
-        <h2>জাযাকাল্লাহ খাইরান। আলহামদুলিল্লাহ আমরা আপনার আবেদন পেয়েছি। আবেদনের জন্য আপনাকে ধন্যবাদ। আমরা শীঘ্রই আপনার সাথে যোগাযোগ করবো ইন শা আল্লাহ।</h2>
+        <div class="cmnt">
+            <h2>জাযাকাল্লাহ খাইরান। আলহামদুলিল্লাহ আমরা আপনার আবেদন পেয়েছি। আবেদনের জন্য আপনাকে ধন্যবাদ। আমরা শীঘ্রই আপনার সাথে যোগাযোগ করবো ইন শা আল্লাহ।</h2>
+        </div>
     </div>
 
 

@@ -75,6 +75,15 @@
                 <a href="Registration-Form.pdf" target="_blank"> <button type="button" class="btn">Download Form</button></a>
             </div>
         </div>
+        <div class="condition">
+            <h3>অনলাইন রেজিস্ট্রেশন</h3>
+        </div>
+        <div class="form">
+            <p>অনলাইনে রেজিস্ট্রেশন করতে নিচের Register বাটন চাপুন।</p>
+            <div class="online-form">
+                <a href="online-registration.php"> <button type="button" class="btn">Register</button></a>
+            </div>
+        </div>
     </div>
 
     <!-- footer section starts  -->
