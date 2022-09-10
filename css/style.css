@@ -409,10 +409,10 @@ section {
     padding: 6rem;
     font-size: 3rem;
     color: black;
-    background-color:darkslateblue;
- }
+    background-color: darkslateblue;
+}
 
- .answer .question h3 {
+.answer .question h3 {
     font-size: 2rem;
     margin-top: 5rem;
     padding-left: 5rem;
@@ -420,22 +420,22 @@ section {
     /* text-align: center; */
     margin-bottom: 1rem;
     color: var(--black);
- }
- 
- .answer .question p {
+}
+
+.answer .question p {
     margin-top: 2rem;
     padding-left: 5rem;
     padding-right: 5rem;
     font-size: 1.5rem;
     margin-bottom: 3rem;
     color: var(--black);
- }
+}
 
- .answer .question .view {
+.answer .question .view {
     margin: 0 auto;
     text-align: center;
     margin-bottom: 3rem;
- }
+}
 
 
 
@@ -445,28 +445,28 @@ section {
     padding: 6rem;
     font-size: 3rem;
     color: black;
-    background-color:darkslateblue;
- }
+    background-color: darkslateblue;
+}
 
- .registration .condition h3 {
+.registration .condition h3 {
     font-size: 2rem;
     margin-top: 5rem;
     padding-left: 7rem;
     padding-right: 7rem;
     margin-bottom: 1rem;
     color: var(--black);
- }
- 
- .registration .condition p {
+}
+
+.registration .condition p {
     margin-top: 2rem;
     padding-left: 7rem;
     padding-right: 7rem;
     font-size: 1.5rem;
     margin-bottom: 1rem;
     color: var(--black);
- }
+}
 
- .registration .form p {
+.registration .form p {
     margin-top: 5rem;
     padding-left: 3rem;
     padding-right: 3rem;
@@ -474,24 +474,24 @@ section {
     margin-bottom: 1rem;
     color: var(--black);
     text-align: center;
- }
+}
 
- .registration .form .download {
+.registration .form .download {
     margin: 0 auto;
     text-align: center;
     margin-bottom: 5rem;
- }
+}
 
 
 
 
 .contact .heading {
-   width: 100%;
-   height: 20rem;
-   padding: 6rem;
-   font-size: 3rem;
-   color: black;
-   background-color:darkslateblue;
+    width: 100%;
+    height: 20rem;
+    padding: 6rem;
+    font-size: 3rem;
+    color: black;
+    background-color: darkslateblue;
 }
 
 .contact form {
@@ -502,16 +502,16 @@ section {
     padding: 2rem;
     max-width: 50rem;
     text-align: center;
- }
- 
- 
- .contact form h3 {
+}
+
+
+.contact form h3 {
     font-size: 1.3rem;
     margin-bottom: 1rem;
     color: var(--black);
- }
- 
- .contact form .box {
+}
+
+.contact form .box {
     margin: 1rem 0;
     width: 100%;
     border: var(--border);
@@ -520,21 +520,72 @@ section {
     font-size: 1.5rem;
     color: var(--black);
     border-radius: .5rem;
- }
- 
- .contact form textarea {
+}
+
+.contact form textarea {
     height: 15rem;
     resize: none;
- }
+}
+
+
+
+.online-registration .heading {
+    width: 100%;
+    height: 20rem;
+    padding: 6rem;
+    font-size: 3rem;
+    color: black;
+    background-color: darkslateblue;
+}
+
+.online-registration form {
+    margin: 0 auto;
+    background-color: var(--light-bg);
+    border-radius: .5rem;
+    border: var(--border);
+    padding: 2rem;
+    max-width: 50rem;
+}
+
+.online-registration form h3 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: var(--black);
+    text-align: center;
+}
+
+.online-registration form label {
+    text-align: left;
+    font-size: 1.7rem;
+}
+
+
+.online-registration form .box {
+    margin: 1rem 0;
+    width: 100%;
+    border: var(--border);
+    background-color: var(--white);
+    padding: 0.7rem 1rem;
+    font-size: 1.5rem;
+    color: var(--black);
+    border-radius: .5rem;
+}
+
+.online-registration form textarea {
+    height: 8rem;
+    resize: none;
+}
+
+
 
 
 .counter-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
     gap: 0rem;
-  }
-  
-  .counter-item {
+}
+
+.counter-item {
     background: var(--white);
     margin-top: 5rem;
     margin-bottom: 20rem;
@@ -542,23 +593,27 @@ section {
     border-radius: 1rem;
     transition: all 0.5s ease-in-out;
     transform: translateY(6rem);
-  }
-  .counter-img {
+}
+
+.counter-img {
     width: 5rem;
     height: 5rem;
     object-fit: contain;
     filter: drop-shadow(0 0 0.2rem var(--light-color));
-  }
-  .counter-img:nth-child(1) {
+}
+
+.counter-img:nth-child(1) {
     width: 7rem;
     height: auto;
-  }
-  .counter-item:hover {
+}
+
+.counter-item:hover {
     background: var(--white);
     cursor: pointer;
     transition: all 0.5s ease-in-out;
-  }
-  .counter-item .counter {
+}
+
+.counter-item .counter {
     font-size: 4rem;
     color: transparent;
     color: transparent;
@@ -571,8 +626,8 @@ section {
     -moz-text-stroke-color: var(--green);
     -ms-text-stroke-color: var(--green);
     -o-text-stroke-color: var(--green);
-  }
-  
+}
+
 
 
 .footer .box-container {
