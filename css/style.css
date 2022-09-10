@@ -482,6 +482,12 @@ section {
     margin-bottom: 5rem;
 }
 
+.registration .form .online-form {
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 5rem;
+}
+
 
 
 
@@ -577,7 +583,22 @@ section {
 }
 
 
-
+.regconfirm .heading {
+    width: 100%;
+    height: 20rem;
+    padding: 6rem;
+    font-size: 3rem;
+    color: black;
+    background-color: darkslateblue;
+}
+.regconfirm .cmnt {
+    margin-left: 5rem; 
+    margin-top: 5rem; 
+    margin-right: 5rem;
+    margin-bottom: 5rem;
+    text-align: center; 
+    color:#27ae60
+}
 
 .counter-grid {
     display: grid;

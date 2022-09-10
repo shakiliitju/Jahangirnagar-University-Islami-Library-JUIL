@@ -69,7 +69,7 @@
             <label for="name">Your Name: </label>
             <input type="text" name="name" required placeholder="name" class="box">
     
-            <label for="name">Your Email: </label>
+            <label for="email">Your Email: </label>
             <input type="email" name="email" required placeholder="email" class="box">
 
             <label for="phone">Your Phone Number: </label>
