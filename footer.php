@@ -32,7 +32,7 @@
         </div>
 
         <div class="share">
-            <a href="https://www.facebook.com/JUIL2022/" target="_blank" class="fab fa-facebook-f"></a>
+            <a href="https://www.facebook.com/juislamiclibrary/" target="_blank" class="fab fa-facebook-f"></a>
             <a href="#" class="fab fa-twitter"></a>
             <a href="#" class="fab fa-instagram"></a>
         </div>
