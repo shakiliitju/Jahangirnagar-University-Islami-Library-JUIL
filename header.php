@@ -15,7 +15,7 @@
 
             <div class="icons">
                 <div id="search-btn" class="fas fa-search"></div>
-                <a href="https://www.facebook.com/JUIL2022/" target="_blank"><i class="fab fa-facebook"></i></a>
+                <a href="https://www.facebook.com/juislamiclibrary/" target="_blank"><i class="fab fa-facebook"></i></a>
                 <a href="https://www.facebook.com/groups/395317002159903/" target="_blank"><i class="fab fa-facebook"></i></a>
             </div>
         </div>

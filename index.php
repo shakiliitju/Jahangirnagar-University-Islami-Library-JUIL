@@ -713,7 +713,7 @@
             <div class="counter-grid">
                 <div class="counter-item">
                     <img src="image/books.png" alt="Image" class="counter-img" />
-                    <h1 class="counter" data-target="169">0</h1>
+                    <h1 class="counter" data-target="179">0</h1>
                     <h1>মোট বই</h1>
                 </div>
                 <div class="counter-item">
