@@ -676,12 +676,12 @@
                 </div>
 
 
-               <!-- <div class="swiper-slide box">
-                    <img src="image/pic-3.png" alt="">
-                    <h3>খালিদ সাইফুল্লাহ</h3>
-                    <h2>পরিচালক</h2>
-                    <p>মাইক্রোবায়োলজি<br>৪৭ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
-                </div> -->
+               <div class="swiper-slide box">
+                    <img src="image/jwel.jpg" alt="">
+                    <h3>মোঃ জুয়েল</h3>
+                    <h2>সহ পরিচালক</h2>
+                    <p>উদ্ভিদবিজ্ঞান<br>৪৮ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
+                </div>
 
                 <div class="swiper-slide box">
                     <img src="image/Shakiliitju.jpg" alt="">
@@ -713,12 +713,12 @@
             <div class="counter-grid">
                 <div class="counter-item">
                     <img src="image/books.png" alt="Image" class="counter-img" />
-                    <h1 class="counter" data-target="179">0</h1>
+                    <h1 class="counter" data-target="187">0</h1>
                     <h1>মোট বই</h1>
                 </div>
                 <div class="counter-item">
                     <img src="image/sudent.png" alt="Image" class="counter-img" />
-                    <h1 class="counter" data-target="20">0</h1>
+                    <h1 class="counter" data-target="50">0</h1>
                     <h1>ছাত্র সদস্য</h1>
                 </div>
                 <!-- <div class="counter-item">
@@ -728,7 +728,7 @@
                 </div> -->
                 <div class="counter-item">
                     <img src="image/member.png" alt="Image" class="counter-img" />
-                    <h1 class="counter" data-target="20">0</h1>
+                    <h1 class="counter" data-target="50">0</h1>
                     <h1>মোট সদস্য</h1>
                 </div>
 
