@@ -111,7 +111,13 @@
                     <div class="content">
                         <h3>বেলা ফুরাবার আগে</h3>
                         <div class="writer">লেখকঃ আরিফ আজাদ</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -122,7 +128,13 @@
                     <div class="content">
                         <h3>ডাবল স্ট্যান্ডার্ড ১</h3>
                         <div class="writer">লেখকঃ ডা. শামসুল আরেফীন </div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -133,7 +145,13 @@
                     <div class="content">
                         <h3>হিজাব আমার পরিচয়</h3>
                         <div class="writer">লেখকঃ জাকারিয়া মাসুদ</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -144,7 +162,13 @@
                     <div class="content">
                         <h3>এবার ভিন্ন কিছু হোক</h3>
                         <div class="writer">লেখকঃ আরিফ আজাদ</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -155,7 +179,13 @@
                     <div class="content">
                         <h3>ডাবল স্ট্যান্ডার্ড ২.০</h3>
                         <div class="writer">লেখকঃ ডা. শামসুল আরেফীন</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -166,7 +196,13 @@
                     <div class="content">
                         <h3>খুশু-খুযু</h3>
                         <div class="writer">লেখকঃ ইমাম ইবনুল কায়্যিম রহ</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -177,7 +213,13 @@
                     <div class="content">
                         <h3>মা, মা, মা ও বাবা</h3>
                         <div class="writer">লেখকঃ আরিফ আজাদ</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -188,7 +230,13 @@
                     <div class="content">
                         <h3>মানসাঙ্ক</h3>
                         <div class="writer">লেখকঃ ডা. শামসুল আরেফীন</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -199,7 +247,13 @@
                     <div class="content">
                         <h3>প্রোডাক্টিভ মুসলিম</h3>
                         <div class="writer">লেখকঃ মোহাম্মদ ফারিস</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -210,7 +264,13 @@
                     <div class="content">
                         <h3>রাহে বেলায়েত</h3>
                         <div class="writer">লেখকঃ ডঃ খোন্দকার আব্দুল্লাহ জাহাঙ্গীর</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -221,7 +281,13 @@
                     <div class="content">
                         <h3>বিপদ যখন নিয়ামত</h3>
                         <div class="writer">লেখকঃ শাইখ মূসা জিবরীল ও অন্যান্য</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -232,7 +298,13 @@
                     <div class="content">
                         <h3>আয়নাঘর</h3>
                         <div class="writer">লেখকঃ ড. ইয়াদ আল কুনাইবী</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -243,7 +315,13 @@
                     <div class="content">
                         <h3>A Women From Desert</h3>
                         <div class="writer">লেখকঃ ডঃ খোন্দকার আব্দুল্লাহ জাহাঙ্গীর</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -254,7 +332,13 @@
                     <div class="content">
                         <h3>ফজর আর করব না কাজা</h3>
                         <div class="writer">লেখকঃ ড. রাগিব সারজানি</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -265,7 +349,13 @@
                     <div class="content">
                         <h3>শিকড়ের সন্ধানে</h3>
                         <div class="writer">লেখকঃ হামিদা মোবাশ্বেরা</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -276,7 +366,13 @@
                     <div class="content">
                         <h3>মুক্ত বাতাসের খোঁজে </h3>
                         <div class="writer">লেখকঃ লস্ট মডেস্টি টিম</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -287,7 +383,13 @@
                     <div class="content">
                         <h3>কুররাতু আইয়ুন</h3>
                         <div class="writer">লেখকঃ ডা. শামসুল আরেফীন</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -298,7 +400,13 @@
                     <div class="content">
                         <h3>যেমন ছিলেন তিনি (স.)</h3>
                         <div class="writer">লেখকঃ শাইখ মুহাম্মাদ সালেহ আল মুনাজ্জিদ</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                         <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -309,7 +417,13 @@
                     <div class="content">
                         <h3>কষ্টিপাথর</h3>
                         <div class="writer">লেখকঃ ডা. শামসুল আরেফীন</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -320,7 +434,13 @@
                     <div class="content">
                         <h3>ইসলামি ইতিহাস</h3>
                         <div class="writer">লেখকঃ সংক্ষিপ্ত বিশ্বকোষ টিম</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -331,7 +451,13 @@
                     <div class="content">
                         <h3>মুহসিনীন</h3>
                         <div class="writer">লেখকঃ ইনবাত টিম</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -342,7 +468,13 @@
                     <div class="content">
                         <h3>হারিয়ে যাওয়া মুক্তো</h3>
                         <div class="writer">লেখকঃ শিহাব আহমেদ তুহিন</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -353,7 +485,13 @@
                     <div class="content">
                         <h3>নিফাক থেকে বাঁচুন</h3>
                         <div class="writer">লেখকঃ ড. ইয়াদ কুনাইবী</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -364,7 +502,13 @@
                     <div class="content">
                         <h3>অন্ধকার থেকে আলোতে</h3>
                         <div class="writer">লেখকঃ মুহাম্মাদ মুশফিকুর রহমান মিনার</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -375,7 +519,13 @@
                     <div class="content">
                         <h3>ইসলামী আকিদা</h3>
                         <div class="writer">লেখকঃ ডঃ খোন্দকার আব্দুল্লাহ জাহাঙ্গীর</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -386,7 +536,13 @@
                     <div class="content">
                         <h3>ফুল হয়ে ফোটো</h3>
                         <div class="writer">লেখকঃ শাইখ আহমাদ মুসা জিবরীল</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -397,7 +553,13 @@
                     <div class="content">
                         <h3>সংবিৎ</h3>
                         <div class="writer">লেখকঃ জাকারিয়া মাসুদ</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                         <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -408,7 +570,13 @@
                     <div class="content">
                         <h3>হাদীসের নামে জালিয়াতি</h3>
                         <div class="writer">লেখকঃ ডঃ খোন্দকার আব্দুল্লাহ জাহাঙ্গীর</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                         <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -419,7 +587,13 @@
                     <div class="content">
                         <h3>আর রাহীকুল মাখতূম</h3>
                         <div class="writer">লেখকঃ শফিউর রহমান মোবারকপুরী</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -430,7 +604,13 @@
                     <div class="content">
                         <h3>তুমি ফিরবে বলে</h3>
                         <div class="writer">লেখকঃ জাকারিয়া মাসুদ</div>
-                        <a href="#" class="btn">ধার নিন</a>
+                        <div class="stars">
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star"></i>
+                            <i class="fas fa-star-half-alt"></i>
+                        </div>
                     </div>
                 </div>
 
@@ -655,6 +835,13 @@
 
             <div class="swiper-wrapper">
 
+            <div class="swiper-slide box">
+                    <img src="image/jwel.jpg" alt="">
+                    <h3>মোঃ জুয়েল</h3>
+                    <h2>সহ পরিচালক</h2>
+                    <p>উদ্ভিদবিজ্ঞান<br>৪৮ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
+                </div>
+
                 <div class="swiper-slide box">
                     <img src="image/safayet.jpeg" alt="">
                     <h3>মো. সাফায়েত মীর</h3>
@@ -675,19 +862,25 @@
                     <p>অর্থনীতি<br>৪৯ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
                 </div>
 
-
-               <div class="swiper-slide box">
-                    <img src="image/jwel.jpg" alt="">
-                    <h3>মোঃ জুয়েল</h3>
-                    <h2>সহ পরিচালক</h2>
-                    <p>উদ্ভিদবিজ্ঞান<br>৪৮ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
-                </div>
-
                 <div class="swiper-slide box">
                     <img src="image/Shakiliitju.jpg" alt="">
                     <h3>মোঃ শাকিল হোসেন</h3>
-                    <h2>ওয়েব ডিজাইনার</h2>
+                    <h2>বিশ্বকবি রবীন্দ্রনাথ ঠাকুর হল প্রতিনিধি</h2>
                     <p>আই আই টি<br>৪৮ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
+                </div>
+                
+                <div class="swiper-slide box">
+                    <img src="image/shoriful.jpg" alt="">
+                    <h3>শরীফুল ইসলাম</h3>
+                    <h2>শহীদ সালাম বরকত হল প্রতিনিধি</h2>
+                    <p>অর্থনীতি<br>৪৯ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
+                </div>
+
+                <div class="swiper-slide box">
+                    <img src="image/tanjid.jpg" alt="">
+                    <h3>মো: তানজিদ আহম্মেদ </h3>
+                    <h2>শহীদ সালাম বরকত হল প্রতিনিধি</h2>
+                    <p>ইতিহাস <br>৪৯ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
                 </div>
 
                 <div class="swiper-slide box">
