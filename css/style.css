@@ -345,7 +345,10 @@ section {
     color: var(--black);
     padding-top: 1rem;
 }
-
+.featured .featured-slider .box .content .stars i {
+    font-size: 1.5rem;
+    color: var(--green);
+}
 
 .swiper-button-next,
 .swiper-button-prev {
