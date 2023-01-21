@@ -53,20 +53,7 @@
         }
     </style>
 
-    <div class="ticker">
-        <div class="title">
-            <h5>বিজ্ঞপ্তি :</h5>
-        </div>
-        <div class="news">
-            <marquee>
-                <p>
-                    দাওয়াহ'ই মূল উদ্দেশ্য। পাঠাগার থেকে আপনার প্রয়োজনীয় বই বিনামূল্যে নিয়ে পড়তে পারবেন। আর চাইলে আপনার পছন্দের প্রয়োজনীয় বইটি পাঠাগারে উপহার দিতে পারবেন।
-                </p>
-            </marquee>
-        </div>
-    </div>
-
-
+    
     <div class="header-2">
 
         <nav class="navbar">
@@ -79,6 +66,19 @@
             <a href="contact.php">যোগাযোগ</a>
             <a href="login.php">লগইন</a>
         </nav>
+    </div>
+
+    <div class="ticker">
+        <div class="title">
+            <h5>বিজ্ঞপ্তি :</h5>
+        </div>
+        <div class="news">
+            <marquee>
+                <p>
+                    দাওয়াহ'ই মূল উদ্দেশ্য। পাঠাগার থেকে আপনার প্রয়োজনীয় বই বিনামূল্যে নিয়ে পড়তে পারবেন। আর চাইলে আপনার পছন্দের প্রয়োজনীয় বইটি পাঠাগারে উপহার দিতে পারবেন।
+                </p>
+            </marquee>
+        </div>
     </div>
 
 </header>
