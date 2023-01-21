@@ -67,7 +67,7 @@
             <h3 class="cnt">Registration Form</h3>
             
             <label for="name">Your Name: </label>
-            <input type="text" name="name" required placeholder="name" class="box">
+            <input type="text" name="name" required placeholder="Full name" class="box">
     
             <label for="email">Your Email: </label>
             <input type="email" name="email" required placeholder="email" class="box">
@@ -98,7 +98,7 @@
             </select>
             
             <label for="address">Your Permanent Address: </label>
-            <textarea name="address" class="box" required placeholder="village, postoffice, upazila, district" id="" cols="30" rows="10"></textarea>
+            <textarea name="address" class="box" required placeholder="village, post-office, upazila, district" id="" cols="30" rows="10"></textarea>
             <input type="submit" value="Send" name="send" class="btn">
         </form>
 
