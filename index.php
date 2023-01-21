@@ -65,7 +65,10 @@
                 <h2>পাঠ করুন আপনার পালনকর্তার নামে যিনি সৃষ্টি করেছেন।</h2>
                 <h1>আল কোরআন [৯৬ঃ০১]</h1>
                 <div class="view">
-                    <a href="https://docs.google.com/document/d/1JGb3cvWrUHpUeILhK5oZRa8dACTws9k1FBXynJnomMU/edit?usp=drivesdk&fbclid=IwAR0GuiVil6aNKayOWfdKzcBz0Cx-TeGACq2ItquBuzuWHknEy9Im6WVCzdI" target="_blank"><button type="button" class="btn">সকল বই দেখুন</button></a>
+                    <a href="" target="_blank"><button type="button" class="btn">Male Section Booklist</button></a>
+                </div>
+                <div class="view">
+                    <a href="" target="_blank"><button type="button" class="btn">Female Section Booklist</button></a>
                 </div>
             </div>
 
