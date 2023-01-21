@@ -59,18 +59,20 @@
     <!-- header section ends -->
 
 
-    <div class="contact">
+    <div class="mbooklist">
         <div class="heading">
             <h3>জাহাঙ্গীরনগর বিশ্ববিদ্যালয় ইসলামি পাঠাগার</h3>
             <h4>সাভার, ঢাকা-১৩৪২</h4>
-            <h5>Male Section Booklist</h5>
         </div>
     </div>
 
     <section class="booklist">
+
+        <h3 class="cnt">Male Section Booklist</h3>
+
         <table class="table table-bordered">
-            <thead class="table-dark">
-                <tr>
+            <thead>
+                <tr class="info">
                     <th>বই নং</th>
                     <th>বইয়ের নাম</th>
                     <th>লেখক/সম্পাদক</th>
@@ -121,7 +123,7 @@
                     <td></td>
                     <td></td>
                 </tr>
-                <tr >
+                <tr>
                     <th>০০৭</th>
                     <td></td>
                     <td></td>
@@ -163,7 +165,7 @@
                     <td></td>
                     <td></td>
                 </tr>
-                <tr >
+                <tr>
                     <th></th>
                     <td></td>
                     <td></td>
@@ -205,7 +207,7 @@
                     <td></td>
                     <td></td>
                 </tr>
-                <tr >
+                <tr>
                     <th></th>
                     <td></td>
                     <td></td>
@@ -247,7 +249,7 @@
                     <td></td>
                     <td></td>
                 </tr>
-                <tr >
+                <tr>
                     <th></th>
                     <td></td>
                     <td></td>
@@ -289,7 +291,7 @@
                     <td></td>
                     <td></td>
                 </tr>
-                <tr >
+                <tr>
                     <th></th>
                     <td></td>
                     <td></td>
@@ -331,7 +333,7 @@
                     <td></td>
                     <td></td>
                 </tr>
-                <tr >
+                <tr>
                     <th></th>
                     <td></td>
                     <td></td>
@@ -373,15 +375,15 @@
                     <td></td>
                     <td></td>
                 </tr>
-                <tr >
+                <tr>
                     <th></th>
                     <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
                 </tr>
-              
-             
+
+
 
             </tbody>
         </table>
