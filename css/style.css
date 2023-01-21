@@ -46,6 +46,7 @@ section {
     padding: 5rem 5%;
 }
 
+/* Heaging section start */
 .heading {
     text-align: center;
     margin-bottom: 2rem;
@@ -98,12 +99,10 @@ section {
     justify-content: space-between;
 }
 
-
 .header .header-1 .logo img {
     width: 8rem;
     height: 8rem;
 }
-
 
 .header .header-1 .search-form {
     width: 45rem;
@@ -149,51 +148,9 @@ section {
     color: var(--black);
 }
 
-
 #search-btn {
     display: none;
 }
-
-
-/* 
-
- .ticker {
-    display: flex;
-    flex-wrap: wrap;
-    width: 80%;
-    height: 60px;
-    margin: 0 auto;
-} 
-.news {
-    width: 76%;
-    background: #cc4444;
-    padding: 0 2%;
-}
-.title {
-    width: 20%;
-    text-align: center;
-    background: #c81c1c;
-    position: relative;
-}
-.title:after {
-    position: absolute;
-    content: "";
-    right: -16%;
-    border-left: 20px solid #c81c1c;
-    border-top: 33px solid transparent;
-    border-right: 20px solid transparent;
-    border-bottom: 33px solid transparent;
-    top: 0;
-}
-.title h5 {
-    font-size: 28px;
-    margin: 8% 0;
-}
-.news marquee {
-    font-size: 28px;
-} */
-
-
 
 .header .header-2 {
     background: var(--green);
@@ -203,15 +160,12 @@ section {
     text-align: center;
 }
 
-
-
 .header .header-2 .navbar a {
     color: #fff;
     display: inline-block;
     padding: 3rem;
     font-size: 1.5rem;
 }
-
 
 .header .header-2 .navbar a:hover {
     background: var(--dark-color);
@@ -246,9 +200,9 @@ section {
 .bottom-navbar a:hover {
     background: var(--dark-color);
 }
+/* Heading section End */
 
-
-
+/* Home section start */
 .home {
     background: url(../image/banner-bg.jpg) no-repeat;
     background-size: cover;
@@ -265,8 +219,6 @@ section {
 .home .row .content {
     flex: 1 1 42rem;
 }
-
-
 
 .home .row .books-slider {
     flex: 1 1 42rem;
@@ -306,9 +258,9 @@ section {
     font-size: 2rem;
     text-align: center;
 }
+/* Home section End */
 
-
-
+/* Featured section start */
 .featured .featured-slider .box {
     margin: 2rem 0;
     position: relative;
@@ -354,7 +306,9 @@ section {
     font-size: 1.5rem;
     color: var(--green);
 }
+/* Featured section End */
 
+/* Swiper section start */
 .swiper-button-next,
 .swiper-button-prev {
     border: var(--border-hover);
@@ -374,8 +328,9 @@ section {
     background: var(--black);
     color: #fff;
 }
+/* Swiper section End */
 
-
+/* Arrivals section start */
 .arrivals .arrivals-slider .box {
     display: flex;
     align-items: center;
@@ -408,8 +363,9 @@ section {
     font-size: 1.5rem;
     color: var(--green);
 }
+/* Arrivals section End */
 
-
+/* Reviews section start */
 .reviews .reviews-slider .box {
     border: var(--border);
     padding: 2rem;
@@ -449,8 +405,9 @@ section {
     font-size: 1.7rem;
     color: var(--green);
 }
+/* Reviews section End */
 
-
+/* Answer section start */
 .answer .heading {
     width: 100%;
     height: 20rem;
@@ -484,9 +441,9 @@ section {
     text-align: center;
     margin-bottom: 3rem;
 }
+/* Answer section End */
 
-
-
+/* Registration section start */
 .registration .heading {
     width: 100%;
     height: 20rem;
@@ -535,54 +492,9 @@ section {
     text-align: center;
     margin-bottom: 5rem;
 }
+/* Registration section End */
 
-
-
-
-.contact .heading {
-    width: 100%;
-    height: 20rem;
-    padding: 6rem;
-    font-size: 3rem;
-    color: black;
-    background-color: darkslateblue;
-}
-
-.contact form {
-    margin: 0 auto;
-    background-color: var(--light-bg);
-    border-radius: .5rem;
-    border: var(--border);
-    padding: 2rem;
-    max-width: 50rem;
-    text-align: center;
-}
-
-
-.contact form h3 {
-    font-size: 1.3rem;
-    margin-bottom: 1rem;
-    color: var(--black);
-}
-
-.contact form .box {
-    margin: 1rem 0;
-    width: 100%;
-    border: var(--border);
-    background-color: var(--white);
-    padding: 0.7rem 1rem;
-    font-size: 1.5rem;
-    color: var(--black);
-    border-radius: .5rem;
-}
-
-.contact form textarea {
-    height: 15rem;
-    resize: none;
-}
-
-
-
+/* Online-registration section start */
 .online-registration .heading {
     width: 100%;
     height: 20rem;
@@ -613,7 +525,6 @@ section {
     font-size: 1.7rem;
 }
 
-
 .online-registration form .box {
     margin: 1rem 0;
     width: 100%;
@@ -630,7 +541,6 @@ section {
     resize: none;
 }
 
-
 .regconfirm .heading {
     width: 100%;
     height: 20rem;
@@ -639,6 +549,7 @@ section {
     color: black;
     background-color: darkslateblue;
 }
+
 .regconfirm .cmnt {
     margin-left: 5rem; 
     margin-top: 5rem; 
@@ -647,7 +558,92 @@ section {
     text-align: center; 
     color:#27ae60
 }
+/* Online-registration section End */
 
+/* Contact section start */
+.contact .heading {
+    width: 100%;
+    height: 20rem;
+    padding: 6rem;
+    font-size: 3rem;
+    color: black;
+    background-color: darkslateblue;
+}
+
+.contact form {
+    margin: 0 auto;
+    background-color: var(--light-bg);
+    border-radius: .5rem;
+    border: var(--border);
+    padding: 2rem;
+    max-width: 50rem;
+    text-align: center;
+}
+
+.contact form h3 {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    color: var(--black);
+}
+
+.contact form .box {
+    margin: 1rem 0;
+    width: 100%;
+    border: var(--border);
+    background-color: var(--white);
+    padding: 0.7rem 1rem;
+    font-size: 1.5rem;
+    color: var(--black);
+    border-radius: .5rem;
+}
+
+.contact form textarea {
+    height: 15rem;
+    resize: none;
+}
+/* Contact section End */
+
+/* Male-Booklist section start */
+.mbooklist .heading {
+    width: 100%;
+    height: 20rem;
+    padding: 6rem;
+    font-size: 3rem;
+    color: black;
+    background-color: darkslateblue;
+}
+
+.mbooklist form h3 {
+    margin: 0 auto;
+    background-color: var(--light-bg);
+    border-radius: .5rem;
+    border: var(--border);
+    padding: 2rem;
+    max-width: 50rem;
+    text-align: center;
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    color: var(--black);
+}
+
+.mbooklist form .box {
+    margin: 1rem 0;
+    width: 100%;
+    border: var(--border);
+    background-color: var(--white);
+    padding: 0.7rem 1rem;
+    font-size: 1.5rem;
+    color: var(--black);
+    border-radius: .5rem;
+}
+
+.mbooklist form textarea {
+    height: 15rem;
+    resize: none;
+}
+/* Male-Booklist section End */
+
+/* Counter section start */
 .counter-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
@@ -696,9 +692,9 @@ section {
     -ms-text-stroke-color: var(--green);
     -o-text-stroke-color: var(--green);
 }
+/* Counter section  End*/
 
-
-
+/* Footer section start */
 .footer .box-container {
     padding-top: 3rem;
     padding-left: 5rem;
@@ -738,7 +734,6 @@ section {
     padding-right: 2rem;
 }
 
-
 .footer .share {
     padding: 3rem 0 3rem;
     text-align: center;
@@ -773,13 +768,7 @@ section {
 .footer .credit span {
     color: var(--green);
 }
-
-
-
-
-
-
-
+/* Footer section End */
 
 
 
