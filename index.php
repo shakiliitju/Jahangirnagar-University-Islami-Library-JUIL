@@ -64,12 +64,7 @@
                 <h3> ﴾اِقۡرَاۡ بِاسۡمِ رَبِّکَ الَّذِیۡ خَلَقَ ۚ﴿۱ </h3>
                 <h2>পাঠ করুন আপনার পালনকর্তার নামে যিনি সৃষ্টি করেছেন।</h2>
                 <h1>আল কোরআন [৯৬ঃ০১]</h1>
-                <div class="view">
-                    <a href="" target="_blank"><button type="button" class="btn">Male Section Booklist</button></a>
-                </div>
-                <div class="view">
-                    <a href="" target="_blank"><button type="button" class="btn">Female Section Booklist</button></a>
-                </div>
+
             </div>
 
             <div class="swiper books-slider">
@@ -88,9 +83,13 @@
                 </div>
                 <img src="image/stand.png" class="stand" alt="">
             </div>
-
         </div>
-
+        <div class="view">
+            <a href="" target="_blank"><button type="button" class="btn"  style="text-align: center;">Male Section Booklist</button></a>
+        </div>
+        <div class="view">
+            <a href="" target="_blank"><button type="button" class="btn" style="text-align: center;">Female Section Booklist</button></a>
+        </div>
     </section>
 
     <!-- home section ense  -->
@@ -403,7 +402,7 @@
                     <div class="content">
                         <h3>যেমন ছিলেন তিনি (স.)</h3>
                         <div class="writer">লেখকঃ শাইখ মুহাম্মাদ সালেহ আল মুনাজ্জিদ</div>
-                         <div class="stars">
+                        <div class="stars">
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
@@ -556,7 +555,7 @@
                     <div class="content">
                         <h3>সংবিৎ</h3>
                         <div class="writer">লেখকঃ জাকারিয়া মাসুদ</div>
-                         <div class="stars">
+                        <div class="stars">
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
@@ -573,7 +572,7 @@
                     <div class="content">
                         <h3>হাদীসের নামে জালিয়াতি</h3>
                         <div class="writer">লেখকঃ ডঃ খোন্দকার আব্দুল্লাহ জাহাঙ্গীর</div>
-                         <div class="stars">
+                        <div class="stars">
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
@@ -838,7 +837,7 @@
 
             <div class="swiper-wrapper">
 
-            <div class="swiper-slide box">
+                <div class="swiper-slide box">
                     <img src="image/jwel.jpg" alt="">
                     <h3>মোঃ জুয়েল</h3>
                     <h2>সহ পরিচালক</h2>
@@ -871,7 +870,7 @@
                     <h2>বিশ্বকবি রবীন্দ্রনাথ ঠাকুর হল প্রতিনিধি</h2>
                     <p>আই আই টি<br>৪৮ তম আবর্তন<br>জাহাঙ্গীরনগর বিশ্ববিদ্যালয়</p>
                 </div>
-                
+
                 <div class="swiper-slide box">
                     <img src="image/shoriful.jpg" alt="">
                     <h3>শরীফুল ইসলাম</h3>
