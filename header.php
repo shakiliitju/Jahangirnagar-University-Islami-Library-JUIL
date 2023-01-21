@@ -94,7 +94,6 @@
     <a href="answer.php" class="fa-sharp fa-solid fa-question"></a>
     <a href="contact.php" class="fas fa-envelope"></a>
     <a href="registration.php" class="fa-solid fa-user-plus"></a>
-    <a href="login.php" class="fas fa-user"></a>
 </nav>
 
 <!-- bottom navbar  ends-->
