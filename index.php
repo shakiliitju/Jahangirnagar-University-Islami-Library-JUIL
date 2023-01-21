@@ -85,10 +85,10 @@
             </div>
         </div>
         <div class="view">
-            <a href="" target="_blank"><button type="button" class="btn"  style="text-align: center;">Male Section Booklist</button></a>
+            <a href="male-booklist.php" target="_blank"><button type="button" class="btn">Male Section Booklist</button></a>
         </div>
         <div class="view">
-            <a href="" target="_blank"><button type="button" class="btn" style="text-align: center;">Female Section Booklist</button></a>
+            <a href="" target="_blank"><button type="button" class="btn">Female Section Booklist</button></a>
         </div>
     </section>
 
