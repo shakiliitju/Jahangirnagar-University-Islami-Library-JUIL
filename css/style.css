@@ -618,40 +618,18 @@ section {
 .mbooklist .heading {
     width: 100%;
     height: 20rem;
-    margin-top: 1.5rem;
+    margin-top: -2rem;
     padding: 6rem;
     font-size: 3rem;
     color: black;
     background-color: darkslateblue;
 }
 
-.mbooklist form h3 {
-    margin: 0 auto;
-    background-color: var(--light-bg);
-    border-radius: .5rem;
-    border: var(--border);
-    padding: 2rem;
-    max-width: 50rem;
+.mbooklist .booklist {
     text-align: center;
-    font-size: 1.3rem;
-    margin-bottom: 1rem;
-    color: var(--black);
-}
-
-.mbooklist form .box {
-    margin: 1rem 0;
-    width: 100%;
-    border: var(--border);
-    background-color: var(--white);
-    padding: 0.7rem 1rem;
-    font-size: 1.5rem;
-    color: var(--black);
-    border-radius: .5rem;
-}
-
-.mbooklist form textarea {
-    height: 15rem;
-    resize: none;
+    color: red;
+    text-decoration: underline;
+    margin-top: -5rem;
 }
 /* Male-Booklist section End */
 
