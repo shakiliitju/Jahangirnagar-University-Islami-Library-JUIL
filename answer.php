@@ -63,10 +63,10 @@
             <h3>প্রশ্ন ১: পাঠাগারে কি কি বই আছে?</h3>
             <p><b>উত্তর: </b>পাঠাগারে কুরআন, হাদীস, ফিকহ, সিরাত ও ইতিহাসসহ বিভিন্ন বিষয়ের অনেক বই আছে। বইয়ের তালিকা
                 দেখতে নিচের বাটন চাপুন।</p>
-            <div class="view">
+            <div class="mview">
                 <a href="" target="_blank"><button type="button" class="btn">Male Section Booklist</button></a>
             </div>
-            <div class="view">
+            <div class="fview">
                 <a href="" target="_blank"><button type="button" class="btn">Female Section Booklist</button></a>
             </div>
             <h3>প্রশ্ন ২: পাঠাগারের অবস্থান কোথায়?</h3>
