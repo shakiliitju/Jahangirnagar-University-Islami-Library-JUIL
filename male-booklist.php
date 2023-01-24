@@ -52,59 +52,59 @@
 
 <body>
 
- <!-- header section starts  -->
+    <!-- header section starts  -->
 
-<header class="header">
-    <div class="header-1">
-        <div class="logo">
-            <a href="https://juislamiclibrary.com/">
-                <img src="image/juil-logo.png" alt="logo">
-            </a>
+    <header class="header">
+        <div class="header-1">
+            <div class="logo">
+                <a href="https://juislamiclibrary.com/">
+                    <img src="image/juil-logo.png" alt="logo">
+                </a>
+            </div>
+
+            <form action="" class="search-form">
+                <input type="search" name="" placeholder="আপনার পছন্দের বই খুঁজুন..." id="search-box">
+                <label for="search-box" class="fas fa-search"></label>
+            </form>
+
+            <div class="icons">
+                <div id="search-btn" class="fas fa-search"></div>
+                <a href="https://www.facebook.com/groups/395317002159903/" target="_blank"><i class="fab fa-facebook"></i></a>
+            </div>
         </div>
 
-        <form action="" class="search-form">
-            <input type="search" name="" placeholder="আপনার পছন্দের বই খুঁজুন..." id="search-box">
-            <label for="search-box" class="fas fa-search"></label>
-        </form>
 
-        <div class="icons">
-            <div id="search-btn" class="fas fa-search"></div>
-            <a href="https://www.facebook.com/groups/395317002159903/" target="_blank"><i class="fab fa-facebook"></i></a>
+        <div class="header-2">
+
+            <nav class="navbar">
+                <a href="index.php">হোম</a>
+                <a href="index.php#featured">বইসমূহ</a>
+                <a href="index.php#arrivals">নতুন বই</a>
+                <a href="index.php#reviews">আমাদের সম্পর্কে</a>
+                <a href="answer.php">প্রশ্ন ও উত্তর</a>
+                <a href="registration.php">নিবন্ধন</a>
+                <a href="contact.php">যোগাযোগ</a>
+                <a href="login.php">লগইন</a>
+            </nav>
         </div>
-    </div>
 
-    
-    <div class="header-2">
-
-        <nav class="navbar">
-            <a href="index.php">হোম</a>
-            <a href="index.php#featured">বইসমূহ</a>
-            <a href="index.php#arrivals">নতুন বই</a>
-            <a href="index.php#reviews">আমাদের সম্পর্কে</a>
-            <a href="answer.php">প্রশ্ন ও উত্তর</a>
-            <a href="registration.php">নিবন্ধন</a>
-            <a href="contact.php">যোগাযোগ</a>
-            <a href="login.php">লগইন</a>
-        </nav>
-    </div>
-
-</header>
+    </header>
 
 
-<!-- bottom navbar starts -->
+    <!-- bottom navbar starts -->
 
-<nav class="bottom-navbar">
-    <a href="index.php" class="fas fa-home"></a>
-    <!-- <a href="#featured" class="fas fa-list"></a> -->
-    <!-- <a href="#arrivals" class="fas fa-tags"></a> -->
-    <!-- <a href="#reviews" class="fas fa-comments"></a> -->
-    <a href="answer.php" class="fa-sharp fa-solid fa-question"></a>
-    <a href="contact.php" class="fas fa-envelope"></a>
-    <a href="registration.php" class="fa-solid fa-user-plus"></a>
-</nav>
+    <nav class="bottom-navbar">
+        <a href="index.php" class="fas fa-home"></a>
+        <!-- <a href="#featured" class="fas fa-list"></a> -->
+        <!-- <a href="#arrivals" class="fas fa-tags"></a> -->
+        <!-- <a href="#reviews" class="fas fa-comments"></a> -->
+        <a href="answer.php" class="fa-sharp fa-solid fa-question"></a>
+        <a href="contact.php" class="fas fa-envelope"></a>
+        <a href="registration.php" class="fa-solid fa-user-plus"></a>
+    </nav>
 
-<!-- bottom navbar  ends-->
-<!-- header section ends -->
+    <!-- bottom navbar  ends-->
+    <!-- header section ends -->
 
 
     <div class="mbooklist">
@@ -117,369 +117,325 @@
     <section class="mbooklist">
 
         <h3 class="booklist">Male Section Booklist</h3>
-
-        <table class="table table-bordered">
-            <thead>
-                <tr class="info">
-                    <th>বই নং</th>
-                    <th>বইয়ের নাম</th>
-                    <th>লেখক/সম্পাদক</th>
-                    <th>প্রকাশনী</th>
-                    <th>পৃষ্ঠা</th>
-                    <th>মূল্য</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <th>০০১</th>
-                    <td>প্রোডাক্টিভ মুসলিম</td>
-                    <td>মোহাম্মদ ফারিস</td>
-                    <td>গার্ডিয়ান পাবলিকেশন্স</td>
-                    <td>২৫০</td>
-                    <td></td>
-                </tr>
-                <tr class="success">
-                    <th>০০২</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="danger">
-                    <th>০০৩</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="active">
-                    <th>০০৪</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="info">
-                    <th>০০৫</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="warning">
-                    <th>০০৬</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th>০০৭</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="success">
-                    <th>০০৮</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="danger">
-                    <th>০০৯</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="active">
-                    <th>০১০</th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="info">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="warning">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="success">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="danger">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="active">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="info">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="warning">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="success">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="danger">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="active">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="info">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="warning">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="success">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="danger">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="active">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="info">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="warning">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="success">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="danger">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="active">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="info">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="warning">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="success">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="danger">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="active">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="info">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="warning">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
+        <div class="mtable">
+            <table class="table table-bordered">
+                <thead>
+                    <tr class="info">
+                        <th>বই নং</th>
+                        <th>বইয়ের নাম</th>
+                        <th>লেখক/সম্পাদক</th>
+                        <th>প্রকাশনী</th>
+                        <th>পৃষ্ঠা</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th>০০১</th>
+                        <td>প্রোডাক্টিভ মুসলিম</td>
+                        <td>মোহাম্মদ ফারিস</td>
+                        <td>গার্ডিয়ান পাবলিকেশন্স</td>
+                        <td>২৫০</td>
+                    </tr>
+                    <tr class="success">
+                        <th>০০২</th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="danger">
+                        <th>০০৩</th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="active">
+                        <th>০০৪</th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="info">
+                        <th>০০৫</th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="warning">
+                        <th>০০৬</th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th>০০৭</th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="success">
+                        <th>০০৮</th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="danger">
+                        <th>০০৯</th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="active">
+                        <th>০১০</th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="info">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="warning">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="success">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="danger">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="active">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="info">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="warning">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="success">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="danger">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="active">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="info">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="warning">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="success">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="danger">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="active">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="info">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="warning">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="success">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="danger">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="active">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="info">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="warning">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="success">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="danger">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="active">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="info">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr class="warning">
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <th></th>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
 
 
 
-            </tbody>
-        </table>
-
+                </tbody>
+            </table>
+        </div>
 
     </section>
 
