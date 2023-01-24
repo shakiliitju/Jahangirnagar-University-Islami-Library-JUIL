@@ -408,6 +408,7 @@ section {
 /* Reviews section End */
 
 /* Answer section start */
+
 .answer .heading {
     width: 100%;
     height: 20rem;
@@ -415,33 +416,37 @@ section {
     padding: 6rem;
     font-size: 3rem;
     color: black;
-    background-color: darkslateblue;
-}
+    background-color:darkslateblue;
+ }
 
-.answer .question h3 {
+ .answer .question h3 {
     font-size: 2rem;
     margin-top: 5rem;
     padding-left: 5rem;
     padding-right: 5rem;
-    /* text-align: center; */
     margin-bottom: 1rem;
     color: var(--black);
-}
-
-.answer .question p {
+ }
+ 
+ .answer .question p {
     margin-top: 2rem;
     padding-left: 5rem;
     padding-right: 5rem;
     font-size: 1.5rem;
     margin-bottom: 3rem;
     color: var(--black);
-}
+ }
 
-.answer .question .view {
-    margin: 0 auto;
+ .answer .question .mview {
+    margin-left: 14rem;
     text-align: center;
-    margin-bottom: 3rem;
-}
+    margin-bottom: 2rem;
+ }
+  .answer .question .fview {
+    margin-left: 13rem;
+    text-align: center;
+    margin-bottom: 2rem;
+ }
 /* Answer section End */
 
 /* Registration section start */
@@ -474,23 +479,23 @@ section {
 }
 
 .registration .form p {
-    margin-top: 5rem;
-    padding-left: 3rem;
-    padding-right: 3rem;
+    margin-top: 3rem;
+    padding-left: 7rem;
+    padding-right: 7rem;
     font-size: 1.5rem;
     margin-bottom: 1rem;
     color: var(--black);
-    text-align: center;
+    text-align: left;
 }
 
 .registration .form .download {
-    margin: 0 auto;
+    margin-left: 14rem;
     text-align: center;
     margin-bottom: 5rem;
 }
 
 .registration .form .online-form {
-    margin: 0 auto;
+    margin-left: 17rem;
     text-align: center;
     margin-bottom: 5rem;
 }
