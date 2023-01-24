@@ -144,11 +144,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr class="danger">
                     <th>০০৩</th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -160,11 +158,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr class="info">
                     <th>০০৫</th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -176,11 +172,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr>
                     <th>০০৭</th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -192,11 +186,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr class="danger">
                     <th>০০৯</th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -208,11 +200,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr class="info">
                     <th></th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -224,11 +214,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr>
                     <th></th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -240,11 +228,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr class="danger">
                     <th></th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -256,11 +242,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr class="info">
                     <th></th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -272,11 +256,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr>
                     <th></th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -288,11 +270,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr class="danger">
                     <th></th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -304,11 +284,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr class="info">
                     <th></th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -320,11 +298,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr>
                     <th></th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -336,11 +312,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr class="danger">
                     <th></th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -352,11 +326,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr class="info">
                     <th></th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -368,11 +340,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr>
                     <th></th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -384,11 +354,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr class="danger">
                     <th></th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -400,11 +368,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr class="info">
                     <th></th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -416,11 +382,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr>
                     <th></th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -432,11 +396,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr class="danger">
                     <th></th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -448,11 +410,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr class="info">
                     <th></th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
@@ -464,11 +424,9 @@
                     <td></td>
                     <td></td>
                     <td></td>
-                    <td></td>
                 </tr>
                 <tr>
                     <th></th>
-                    <td></td>
                     <td></td>
                     <td></td>
                     <td></td>
