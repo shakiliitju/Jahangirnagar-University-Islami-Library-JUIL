@@ -633,6 +633,25 @@ section {
 }
 /* Male-Booklist section End */
 
+/* Female-Booklist section start */
+.fbooklist .heading {
+    width: 100%;
+    height: 20rem;
+    margin-top: -2rem;
+    padding: 6rem;
+    font-size: 3rem;
+    color: black;
+    background-color: darkslateblue;
+}
+
+.fbooklist .booklist {
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+    margin-top: -5rem;
+}
+/* Female-Booklist section End */
+
 /* Counter section start */
 .counter-grid {
     display: grid;
