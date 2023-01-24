@@ -64,10 +64,10 @@
             <p><b>উত্তর: </b>পাঠাগারে কুরআন, হাদীস, ফিকহ, সিরাত ও ইতিহাসসহ বিভিন্ন বিষয়ের অনেক বই আছে। বইয়ের তালিকা
                 দেখতে নিচের বাটন চাপুন।</p>
             <div class="mview">
-                <a href="" target="_blank"><button type="button" class="btn">Male Section Booklist</button></a>
+                <a href="male-booklist.php" target="_blank"><button type="button" class="btn">Male Section Booklist</button></a>
             </div>
             <div class="fview">
-                <a href="" target="_blank"><button type="button" class="btn">Female Section Booklist</button></a>
+                <a href="female-booklist.php" target="_blank"><button type="button" class="btn">Female Section Booklist</button></a>
             </div>
             <h3>প্রশ্ন ২: পাঠাগারের অবস্থান কোথায়?</h3>
             <p><b>উত্তর: </b>পাঠাগারের অস্থায়ী অবস্থান- রুম নম্বর #১২৪, আ ফ ম কামালউদ্দীন হল, জাহাঙ্গীরনগর
