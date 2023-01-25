@@ -906,24 +906,25 @@
     <section id="section_counter">
         <div class="container">
             <div class="counter-grid">
+
                 <div class="counter-item">
                     <img src="image/books.png" alt="Image" class="counter-img" />
-                    <h1 class="counter" data-target="187">0</h1>
+                    <h1 class="counter" data-target="158">0</h1>
+                    <h1>ছেলেদের বই</h1>
+                </div>
+                <div class="counter-item">
+                    <img src="image/books.png" alt="Image" class="counter-img" />
+                    <h1 class="counter" data-target="42">0</h1>
+                    <h1>মেয়েদের বই</h1>
+                </div>
+                <div class="counter-item">
+                    <img src="image/books.png" alt="Image" class="counter-img" />
+                    <h1 class="counter" data-target="200">0</h1>
                     <h1>মোট বই</h1>
                 </div>
                 <div class="counter-item">
-                    <img src="image/sudent.png" alt="Image" class="counter-img" />
-                    <h1 class="counter" data-target="50">0</h1>
-                    <h1>ছাত্র সদস্য</h1>
-                </div>
-                <!-- <div class="counter-item">
-                    <img src="image/female-student.png" alt="Image" class="counter-img" />
-                    <h1 class="counter" data-target="15">0</h1>
-                    <h1>ছাত্রী সদস্য</h1>
-                </div> -->
-                <div class="counter-item">
                     <img src="image/member.png" alt="Image" class="counter-img" />
-                    <h1 class="counter" data-target="50">0</h1>
+                    <h1 class="counter" data-target="54">0</h1>
                     <h1>মোট সদস্য</h1>
                 </div>
 
