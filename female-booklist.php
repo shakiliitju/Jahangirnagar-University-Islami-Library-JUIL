@@ -269,169 +269,145 @@
                     <td>১৭৬</td>
                 </tr>
                 <tr class="danger">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>২১</th>
+                    <td>সেরা হোক এবারের রামাদান</td>
+                    <td>রৌদ্রময়ী টীম</td>
+                    <td>সমকালীন প্রকাশন</td>
+                    <td>১৮০</td>
                 </tr>
                 <tr class="active">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>২২</th>
+                    <td>জীবন যদি হতো নারী সাহাবির মতো</td>
+                    <td>ড. হানান লাশিন</td>
+                    <td>সমকালীন প্রকাশন</td>
+                    <td>১১৯</td>
                 </tr>
                 <tr class="info">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>২৩</th>
+                    <td>ফেরা-২</td>
+                    <td>বিনতু আদিল</td>
+                    <td>সমকালীন প্রকাশন</td>
+                    <td>১১৯</td>
                 </tr>
                 <tr class="warning">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>২৪</th>
+                    <td>ফেরা</td>
+                    <td>সিহিন্তা শরীফা ও নাইলাহ আমাতুল্লাহ</td>
+                    <td>সমকালীন প্রকাশন</td>
+                    <td>১২০</td>
                 </tr>
                 <tr>
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>২৫</th>
+                    <td>প্রিয়তমা</td>
+                    <td>সালাহউদ্দীন জাহাঙ্গীর</td>
+                    <td>নব প্রকাশন</td>
+                    <td>৩৫২</td>
                 </tr>
                 <tr class="success">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>২৬</th>
+                    <td>হ্রদয় জাগার জন্য</td>
+                    <td>ইরাসমিন মুজাহিদ</td>
+                    <td>সমকালীন প্রকাশন</td>
+                    <td>১৬৪</td>
                 </tr>
                 <tr class="danger">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>২৭</th>
+                    <td>ডাবল স্টান্ডার্ড</td>
+                    <td>ডা. শামসুল আরেফীন</td>
+                    <td>শুদ্ধি</td>
+                    <td>১৯২</td>
                 </tr>
                 <tr class="active">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>২৮</th>
+                    <td>সিরাজাম মুনিরা</td>
+                    <td>আরিফুল ইসলাম</td>
+                    <td>সমকালীন প্রকাশন</td>
+                    <td>১৫৬</td>
                 </tr>
                 <tr class="info">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>২৯</th>
+                    <td>প্যারাডাক্সিকাল সাজিদ-২</td>
+                    <td>আরিফ আজাদ</td>
+                    <td>সমকালীন প্রকাশন</td>
+                    <td>২৩৫</td>
                 </tr>
                 <tr class="warning">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>৩০</th>
+                    <td>কল্পির কারাবাস</td>
+                    <td>মুহাম্মাদ হোসাইন</td>
+                    <td>শব্দতরু</td>
+                    <td>৭৫</td>
                 </tr>
                 <tr>
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>৩১</th>
+                    <td>হিজাব আমার পরিচয়</td>
+                    <td>জাকারিয়া মাসুদ</td>
+                    <td>সন্দীপন প্রকাশন</td>
+                    <td>৮৬</td>
                 </tr>
                 <tr class="success">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>৩২</th>
+                    <td>কুরআন জীবনের গাইডলাইন</td>
+                    <td>ড. ইয়াদ কুনাইবী</td>
+                    <td>সন্দীপন প্রকাশন</td>
+                    <td>১০৪</td>
                 </tr>
                 <tr class="danger">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>৩৩</th>
+                    <td>খুশুঃনামাজের প্রাণ</td>
+                    <td>ইমাম ইবনে রজব হাম্বলী রাহি</td>
+                    <td>উমেদ প্রকাশ</td>
+                    <td>১৩৬</td>
                 </tr>
                 <tr class="active">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>৩৪</th>
+                    <td>ফুল হয়ে ফোটো</td>
+                    <td>শাইখ আহমেদ মুসা জিবরীল,মোহাম্মদ হোবলস</td>
+                    <td>পথিক প্রকাশন</td>
+                    <td>২৪০</td>
                 </tr>
                 <tr class="info">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>৩৫</th>
+                    <td>বিপদ যখন নিয়ামত</td>
+                    <td>শাইখ মুসা জিবরীল</td>
+                    <td>সমর্পন প্রকাশন</td>
+                    <td>৮৬</td>
                 </tr>
                 <tr class="warning">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>৩৬</th>
+                    <td>জীবন যেখানে যেমন</td>
+                    <td>আরিফ আজাদ</td>
+                    <td>সমকালীণ প্রকাশন</td>
+                    <td>১৪৬</td>
                 </tr>
                 <tr>
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>৩৭</th>
+                    <td>কিয়ামুল লাইল</td>
+                    <td>শাইখ আহমেদ মুসা জিবরীল</td>
+                    <td>সমর্পন প্রকাশন</td>
+                    <td>২৯</td>
                 </tr>
                 <tr class="success">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>৩৮</th>
+                    <td>পারিবারিক বিপর্যয়ের কারণ</td>
+                    <td>শাইখ মুহাম্মদ সালেহ আল মুনাজ্জিদ</td>
+                    <td>রুহামা পাবলিকেশন</td>
+                    <td>৬১</td>
                 </tr>
                 <tr class="danger">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>৩৯</th>
+                    <td>গন্তব্য</td>
+                    <td>শফিক মুন্সি</td>
+                    <td>মুয়াম্মদ পাবলিকেশন</td>
+                    <td>৮৯</td>
                 </tr>
                 <tr class="active">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
+                    <th>৪০</th>
+                    <td>জীবন উপভোগ করুন (Enjoy Your LIfe)</td>
+                    <td>ড. মুহাম্মদ ইবনে আব্দুর রহমান আরিফী</td>
+                    <td>হুদহুদ প্রকাশন</td>
+                    <td>৬০০</td>
                 </tr>
-                <tr class="info">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr class="warning">
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <th></th>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-
-
-
             </tbody>
         </table>
 
