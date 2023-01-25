@@ -87,9 +87,8 @@
 
 <nav class="bottom-navbar">
     <a href="index.php" class="fas fa-home"></a>
-    <!-- <a href="#featured" class="fas fa-list"></a> -->
-    <!-- <a href="#arrivals" class="fas fa-tags"></a> -->
-    <!-- <a href="#reviews" class="fas fa-comments"></a> -->
+    <a href="male-booklist.php" class="fa-regular fa-address-book"></a>
+    <a href="female-booklist.php" class="fa-solid fa-book-open-reader"></a>
     <a href="answer.php" class="fa-sharp fa-solid fa-question"></a>
     <a href="contact.php" class="fas fa-envelope"></a>
     <a href="registration.php" class="fa-solid fa-user-plus"></a>
