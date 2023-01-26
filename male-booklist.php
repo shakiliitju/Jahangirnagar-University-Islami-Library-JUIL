@@ -80,7 +80,8 @@
                 <a href="index.php">হোম</a>
                 <a href="index.php#featured">বইসমূহ</a>
                 <a href="index.php#arrivals">নতুন বই</a>
-                <a href="index.php#reviews">আমাদের সম্পর্কে</a>
+                <a href="male-booklist.php">ছেলেদের বই</a>
+                <a href="female-booklist.php">মেয়েদের বই</a>
                 <a href="answer.php">প্রশ্ন ও উত্তর</a>
                 <a href="registration.php">নিবন্ধন</a>
                 <a href="contact.php">যোগাযোগ</a>
